@@ -8551,4 +8551,69 @@ UT WOS:000620808700008
 DA 2023-06-05
 ER
 
+PT J
+AU Wu, P
+   Xu, LH
+   Li, JL
+   Guo, HC
+   Huang, ZL
+AF Wu, Pan
+   Xu, Lunhui
+   Li, Jinlong
+   Guo, Hengcong
+   Huang, Zilin
+TI Recognizing Real-Time Transfer Patterns between Metro and Bus Systems
+   Based on Spatial-Temporal Constraints
+SO JOURNAL OF TRANSPORTATION ENGINEERING PART A-SYSTEMS
+LA English
+DT Article
+DE Smart card (SC) data; Global Positioning System (GPS) data; Transfer
+   identification; Metro-to-bus mode; Bus-to-metro mode
+ID SMARTCARD; BEHAVIOR; STATIONS; DEMAND
+AB The transfer between bus and metro is an integral part of the public transportation system, but accurately identifying transfer patterns and real-time transfer demands at each metro station for different transfer modes remains a vital issue. Existing identification methods are based mainly on a one-size-fits-all fixed transfer time threshold, or dynamic transfer identification methods only for the metro-to-bus mode, which is not sufficient for mining the hourly transfer characteristics of different transfer modes at each station. This study combined bus smart card (SC) data and the corresponding bus Global Positioning System (GPS) track data into one data set to infer the bus boarding stops. A new algorithm to identify transfer characteristics based on two rules about dynamic transfer time threshold and distance threshold is proposed for the metro-to-bus mode. A new method to recognize transfer patterns based on dynamic transfer time thresholds is presented for the bus-to-metro mode. The two proposed transfer recognition methods were validated using survey data from Shenzhen, China. The results show that the distribution of transfer time by the proposed methods is consistent with that of the survey data. The p-values of Mann-Whitney U tests of transfer data identified by the method and survey data all were greater than 0.05. This indicates that the methods proposed in this study can identify effectively the transfer patterns at each metro station per hour of the day, with good generalizability. Moreover, the proposed methods can explain transfer patterns and hourly transfer demand at each station for different transfer modes better than other methods. (C) 2022 American Society of Civil Engineers.
+C1 [Wu, Pan; Xu, Lunhui; Li, Jinlong] South China Univ Technol, Dept Civil & Transportat Engn, Guangzhou 510641, Peoples R China.
+   [Guo, Hengcong] Univ North Carolina Charlotte, Dept Civil & Environm Engn, EPIC Bldg,Room 3366, Charlotte, NC 28223 USA.
+   [Huang, Zilin] Purdue Univ, Ctr Connected & Automated Transportat CCAT, W Lafayette, IN 47907 USA.
+   [Huang, Zilin] Purdue Univ, Lyles Sch Civil Engn, W Lafayette, IN 47907 USA.
+C3 South China University of Technology; University of North Carolina;
+   University of North Carolina Charlotte; Purdue University System; Purdue
+   University West Lafayette Campus; Purdue University; Purdue University
+   System; Purdue University West Lafayette Campus; Purdue University
+RP Xu, LH (corresponding author), South China Univ Technol, Dept Civil & Transportat Engn, Guangzhou 510641, Peoples R China.
+EM 201810101746@mail.scut.edu.cn; xrn0530@163.com;
+   202010101569@mail.scut.edu.cn; hguo4@uncc.edu; huan1867@purdue.edu
+RI Huang, Zilin/JAO-2256-2023
+OI Huang, Zilin/0000-0003-3754-4821
+FU Guangdong Province Regional Joint Fund-Key Project [2020B1515120095]
+FX The research presented in this paper is partially supported by the
+   Guangdong Province Regional Joint Fund-Key Project (Grant No.
+   2020B1515120095).
+NR 32
+TC 5
+Z9 6
+U1 6
+U2 14
+PU ASCE-AMER SOC CIVIL ENGINEERS
+PI RESTON
+PA 1801 ALEXANDER BELL DR, RESTON, VA 20191-4400 USA
+SN 2473-2907
+EI 2473-2893
+J9 J TRANSP ENG A-SYST
+JI J. Transp. Eng. Pt A-Syst.
+PD SEP 1
+PY 2022
+VL 148
+IS 9
+AR 04022065
+DI 10.1061/JTEPBS.0000721
+PG 17
+WC Engineering, Civil; Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Transportation
+GA 3O5YD
+UT WOS:000836911800013
+DA 2023-09-07
+
+ER
+
 EF
