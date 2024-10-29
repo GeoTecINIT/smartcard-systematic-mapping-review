@@ -8541,7 +8541,7 @@ PD MAR
 PY 2021
 VL 124
 AR 102921
-DI 10.1016/j.tre.2020.102921
+DI 10.1016/j.trc.2020.102921
 PG 20
 WC Transportation Science & Technology
 WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
@@ -8615,5 +8615,2077 @@ UT WOS:000836911800013
 DA 2023-09-07
 
 ER
+
+PT J
+AU Li, C
+   Bai, L
+   Liu, W
+   Yao, LN
+   Waller, ST
+AF Li, Can
+   Bai, Lei
+   Liu, Wei
+   Yao, Lina
+   Waller, S. Travis
+TI Urban mobility analytics: A deep spatial-temporal product neural network
+   for traveler attributes inference
+SO TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES
+LA English
+DT Article
+DE Travel pattern recognition; Traveler attributes inference; Public
+   transport; Deep learning
+ID PREDICTION; PATTERNS; DEMAND; SERVICES
+AB This study examines the potential of using smart card data in public transit systems to infer attributes of travelers, thereby facilitating a more user-centered public transport service design while reducing the use of expensive and time-consuming travel surveys. This is challenging since travel behaviors vary significantly over the population, space, and time and developing meaningful links between them and traveler attributes are not trivial. To achieve this, we conduct an extensive analysis of spatio-temporal travel behavior patterns using smart card data from the Greater Sydney area (Opal card), and then develop a Hybrid Neural Network to utilize spatial and temporal dependencies in the dataset. In particular, we first empirically analyze passengers' movements and mobility patterns from both spatial and temporal perspectives and design a set of discriminative features to characterize the patterns. We then propose a deep-learning-based framework to investigate spatial and temporal features in order to infer traveler attributes. The proposed modeling framework consists of two components, i.e., a Product-based Spatial-Temporal Module (PSTM) and an Auto-Encoder-based Compression Module (AECM). PSTM encodes the relationships across a variety of features while AECM derives useful spatial information from a transit stop matrix. The proposed model is tested and evaluated using a large-scale public transport dataset in the Greater Sydney area to infer two attributes of passengers, i.e., the age group and residential area. The experimental results demonstrate the effectiveness of the proposed method against a number of established tools in the literature. The developed techniques can be potentially adapted to other domains where spatio-temporal features are critical, such as commercial/entertainment site selection and urban service planning.
+C1 [Li, Can; Bai, Lei; Liu, Wei; Yao, Lina] Univ New South Wales, Sch Comp Sci & Engn, Sydney, NSW 2052, Australia.
+   [Liu, Wei; Waller, S. Travis] Univ New South Wales, Res Ctr Integrated Transport Innovat, Sch Civil & Environm Engn, Sydney, NSW 2052, Australia.
+C3 University of New South Wales Sydney; University of New South Wales
+   Sydney
+RP Liu, W (corresponding author), Univ New South Wales, Sch Comp Sci & Engn, Sydney, NSW 2052, Australia.
+EM wei.liu@unsw.edu.au
+RI Li, Can/ABM-8915-2022; Yao, Lina/AAH-5088-2019; Liu, Wei/P-5431-2014
+OI Yao, Lina/0000-0003-1018-5646; Liu, Wei/0000-0001-8638-3695; BAI,
+   LEI/0000-0003-3378-7201; Waller, Travis/0000-0002-2939-2090
+FU Australian Research Council [DE200101793]; Australian Research Council
+   [DE200101793] Funding Source: Australian Research Council
+FX We would like to thank the handling editor, Prof. Zhen (Sean) Qian, and
+   the anonymous referees for their constructive comments, which have
+   helped improve both the technical quality and exposition of this paper
+   substantially. Dr. Wei Liu thanks the funding support from the
+   Australian Research Council through the Discovery Early Career
+   Researcher Award (DE200101793).
+NR 59
+TC 16
+Z9 17
+U1 4
+U2 48
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0968-090X
+EI 1879-2359
+J9 TRANSPORT RES C-EMER
+JI Transp. Res. Pt. C-Emerg. Technol.
+PD MAR
+PY 2021
+VL 124
+AR 102921
+DI 10.1016/j.trc.2020.102921
+PG 20
+WC Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Transportation
+GA QL0YX
+UT WOS:000620808700008
+DA 2024-07-26
+ER
+
+PT J
+AU Chen, EY
+   Luo, Q
+   Chen, JJ
+   He, YX
+AF Chen, Enyi
+   Luo, Qin
+   Chen, Jingjing
+   He, Yuxin
+TI Understanding passenger travel choice behaviours under train delays in
+   urban rail transits: a data-driven approach
+SO TRANSPORTMETRICA B-TRANSPORT DYNAMICS
+LA English
+DT Article
+DE Urban rail transit; travel choice behaviours; train delays; data-driven
+ID USERS
+AB The analysis of passenger travel choice behaviours under train delays has become a crucial topic in research on urban rail transit operation management. In this paper, we focus on analysing travel choices of affected regular passengers under train delays by utilizing the data collected through an automatic fare collection (AFC) system along with train delay log records. Along this line, we propose a data-driven four-stage framework for studying regular passengers' responses under delays, consisting of data profiling, regular passenger screening and travel patterns extraction, affected regular passenger identification, and affected passenger behaviour prediction modelling. Using a real-world case of the Shenzhen Metro in China, we conduct extensive experiments for method validation and feature insights analysis. The proposed framework could provide a microscopic view of passenger travel behaviours under train delays for fine prediction and exhibit a possibility for multi-source heterogeneous data mining in passenger behaviour analysis and train delay-related tasks.
+C1 [Chen, Enyi; Luo, Qin; Chen, Jingjing; He, Yuxin] Shenzhen Technol Univ, Coll Urban Transportat & Logist, Shenzhen, Peoples R China.
+   [Chen, Enyi; Luo, Qin; Chen, Jingjing; He, Yuxin] Shenzhen Technol Univ, Guangdong Rail Transit Intelligent Operat & Mainte, Shenzhen, Peoples R China.
+   [He, Yuxin] Shenzhen Technol Univ, Coll Urban Transportat & Logist, Shenzhen 518118, Peoples R China.
+   [He, Yuxin] Shenzhen Technol Univ, Guangdong Rail Transit Intelligent Operat & Mainte, Shenzhen 518118, Peoples R China.
+C3 Shenzhen Technology University; Shenzhen Technology University; Shenzhen
+   Technology University; Shenzhen Technology University
+RP He, YX (corresponding author), Shenzhen Technol Univ, Coll Urban Transportat & Logist, Shenzhen 518118, Peoples R China.; He, YX (corresponding author), Shenzhen Technol Univ, Guangdong Rail Transit Intelligent Operat & Mainte, Shenzhen 518118, Peoples R China.
+EM heyuxin@sztu.edu.cn
+RI Luo, Qin/KDM-6812-2024
+OI HE, Yuxin/0000-0001-8857-9990
+FU Guangdong Basic and Applied Basic Research Foundation [2021A1515110731];
+   Shenzhen Science and Technology Program [JCYJ20210324121203008];
+   Guangdong Key Construction Discipline Research Ability Enhancement
+   Project [2021ZDJS108]; Shanghai Key Laboratory of Rail Infrastructure
+   Durability and System Safety [R202203]; Natural Science Foundation of
+   Top Talent of SZTU [GDRC202126]; Stability support fund of Shenzhen
+   colleges and universities, Shenzhen Technology University [SZWD2021014]
+FX This study was supported by the Guangdong Basic and Applied Basic
+   Research Foundation (2021A1515110731); Shenzhen Science and Technology
+   Program (JCYJ20210324121203008); Guangdong Key Construction Discipline
+   Research Ability Enhancement Project (2021ZDJS108); Shanghai Key
+   Laboratory of Rail Infrastructure Durability and System Safety
+   (R202203); Natural Science Foundation of Top Talent of SZTU
+   (GDRC202126); and Stability support fund of Shenzhen colleges and
+   universities, Shenzhen Technology University (SZWD2021014).
+NR 24
+TC 0
+Z9 0
+U1 11
+U2 43
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 2168-0566
+EI 2168-0582
+J9 TRANSPORTMETRICA B
+JI Transportmetrica B-Transp. Dyn.
+PD DEC 31
+PY 2023
+VL 11
+IS 1
+BP 1496
+EP 1524
+DI 10.1080/21680566.2023.2226824
+PG 29
+WC Transportation; Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Transportation
+GA J9DP3
+UT WOS:001012561000001
+DA 2024-07-26
+ER
+
+PT J
+AU Shin, YS
+   Jung, JH
+   Kwon, Y
+AF Shin, You-Sun
+   Jung, Jay Hoon
+   Kwon, YoungMin
+TI Reconstruction of incomplete public transportation check-out records by
+   heuristic approaching
+SO COGENT ENGINEERING
+LA English
+DT Article
+DE Data reconstruction; smart card; spatial density analysis;
+   transportation
+ID DESTINATION ESTIMATION; SMART; ORIGIN; INFORMATION; SATISFACTION;
+   ALGORITHM
+AB Smart cards, integrated circuit cards, are frequently used to pay transportation fees in many countries such as the United States, the European Union, Korea and others. Smart card transaction histories in public transportation have been used in making diverse traffic policies. Unfortunately, data preprocessing is required to organize records to extract useful information since the raw data contain artifacts and incomplete information. The paired data, i.e. a boarding and its associated alighting, are one of the key pieces of information required to yield the city traffic demand. However, it is difficult to gather the paired data mainly because the card tagging policies and data collecting methods vary from city to city and from institution to institution. The broken trip links between the boarding and its associated alighting information are the most frequent incomplete data in the smart card histories. Although huge budgets are spent on annual traffic surveys in many countries, there are no accurate Smart card data analysis methods that cover all city cases due to high data complexity and limited base information. Among these two restrictions, limited information is more difficult to resolve because it has a large codomain, thousands of stops, for inference under tiny samples. It gives handicaps of applying well-known high-performance approaches such as deep learning and probability analysis. We propose a reconstruction method by a customized clustering algorithm based on coordinates of transactions-occurred stops, user trip histories and actual vehicle movement trajectories for incomplete trip pairs. The proposed method is derived from evaluating each passenger's historical clusters and trip patterns. In a blind test 79.1% accuracy is achieved in predicting missing alighting stops while conventional methods reach only 42.3% accuracy.
+C1 [Shin, You-Sun] Korea Transport Inst, Dept Transport Bigdata, Sejong Si, South Korea.
+   [Jung, Jay Hoon] Korea Aerosp Univ, Dept Artificial Intelligence, Goyang Si, South Korea.
+   [Kwon, YoungMin] SUNY Stony Brook, Comp Sci Dept, Incheon, South Korea.
+   [Shin, You-Sun] Korea Transport Inst, Dept Transport Bigdata, Sejong, South Korea.
+C3 Korea Transport Institute; Korea Aerospace University; Korea Transport
+   Institute
+RP Shin, YS (corresponding author), Korea Transport Inst, Dept Transport Bigdata, Sejong, South Korea.
+EM shinys@koti.re.kr
+RI Shin, Yousun/IUP-4938-2023
+OI Shin, Yousun/0000-0002-9539-6188
+FU NRF of MSIT, Korea [2021R1F1A104859812]; MSIT, Korea, under the SUNY
+   Korea's ICT CCP [IITP-2020-2011-1-00783]
+FX The work was supported by the~NRF of MSIT, Korea
+   [2021R1F1A104859812];the MSIT, Korea, under the SUNY Korea's ICT
+   CCP(IITP-2020-2011-1-00783) supervised by the IITP.
+NR 42
+TC 0
+Z9 0
+U1 0
+U2 2
+PU TAYLOR & FRANCIS AS
+PI OSLO
+PA KARL JOHANS GATE 5, NO-0154 OSLO, NORWAY
+SN 2331-1916
+J9 COGENT ENG
+JI Cogent Eng.
+PD DEC 31
+PY 2023
+VL 10
+IS 1
+AR 2203800
+DI 10.1080/23311916.2023.2203800
+PG 20
+WC Engineering, Multidisciplinary
+WE Emerging Sources Citation Index (ESCI)
+SC Engineering
+GA F3FV5
+UT WOS:000981245700001
+OA gold
+DA 2024-07-26
+ER
+
+PT J
+AU Cortés, CE
+   Donoso, P
+   Gutiérrez, L
+   Herl, D
+   Muñoz, D
+AF Cortes, Cristian E.
+   Donoso, Pedro
+   Gutierrez, Leonel
+   Herl, Daniel
+   Munoz, Diego
+TI A recursive stochastic transit equilibrium model estimated using passive
+   data from Santiago, Chile
+SO TRANSPORTATION RESEARCH PART B-METHODOLOGICAL
+LA English
+DT Article
+DE Public transport; Stochastic passenger assignment; Passive data;
+   Calibration
+ID ASSIGNMENT MODEL; ROUTE CHOICE; LOGIT MODEL; SMART CARD; PASSENGERS;
+   NETWORKS; LINES
+AB A strategic public transport equilibrium model is developed that considers each user's trip decision, covering the choices of access stop, mode and line, alighting stop, and transfer or egress. At each stage, these choices are considered to be stochastic and made under capacity constraints resulting in waiting time increases at stops and stations due to demand levels and/or arriving vehicle loads. The modeling strategy is based on the hyper-path concept, but rather than evaluate user strategies, the approach models transitions at all individual nodes, thus facilitating computational efficiency. In this approach, we develop a recursive method different from resolving explicitly a recursion based on Bellman ' s equation, which is suitable for large and dense transit networks. A method is presented for estimating the model parameters, which was applied to the real case of the Santiago, Chile transit system based on passive transaction datasets generated by users' smart cards and GPS technology aboard the system's buses. These data were used to estimate alighting stops and an exhaustive and disaggregate reconstruction of all user trips. Once calibrated, the model proved able to predict the trip assignments observed in the calibration dataset as well as datasets from later periods, making predictions that closely fit the observations and adapting well to changes in network topology, operating patterns, and user demand. Therefore, the model should have considerable potential as a powerful, flexible, and highly useful tool for system regulators and operators who define public transport structures, operations, and policies.
+C1 [Cortes, Cristian E.; Donoso, Pedro; Gutierrez, Leonel; Herl, Daniel] Univ Chile, Dept Civil Engn, Santiago, Chile.
+   [Cortes, Cristian E.] Inst Sistemas Complejos Ingn ISCI, Santiago, Chile.
+   [Munoz, Diego] STP Santiago SA, Santiago, Chile.
+   [Cortes, Cristian E.] Blanco Encalada 2002, Santiago, Chile.
+C3 Universidad de Chile
+RP Cortés, CE (corresponding author), Blanco Encalada 2002, Santiago, Chile.
+EM ccortes@ing.uchile.cl
+RI Cortes, Cristian E./A-1491-2010
+OI Cortes, Cristian E./0000-0001-7041-4602
+NR 47
+TC 0
+Z9 0
+U1 0
+U2 0
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0191-2615
+EI 1879-2367
+J9 TRANSPORT RES B-METH
+JI Transp. Res. Pt. B-Methodol.
+PD AUG
+PY 2023
+VL 174
+AR 102780
+DI 10.1016/j.trb.2023.102780
+EA JUL 2023
+PG 27
+WC Economics; Engineering, Civil; Operations Research & Management Science;
+   Transportation; Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Engineering; Operations Research & Management
+   Science; Transportation
+GA FR1L9
+UT WOS:001147487700001
+DA 2024-07-26
+ER
+
+PT J
+AU Lizana, M
+   Choudhury, C
+   Watling, D
+AF Lizana, Maximiliano
+   Choudhury, Charisma
+   Watling, David
+TI Using smart card data to model public transport user profiles in light
+   of the COVID-19 pandemic
+SO TRAVEL BEHAVIOUR AND SOCIETY
+LA English
+DT Article
+DE Public transport; COVID-19; Smart card data; Travel behaviour;
+   Clustering; Machine learning
+ID TRAVEL BEHAVIOR; SANTIAGO; SPACE; TIME
+AB The COVID-19 pandemic caused an unprecedented impact on public transport demand. Even though several studies have investigated the change in the use of public transport during the pandemic, most existing studies where large passive datasets have been considered focus on the drop in ridership at the aggregate level. To address this gap, this research aims to identify and model profiles of passengers considering their public transport recovery after the long-term lockdown in Santiago, Chile, during the early stage of the pandemic. The methodology proposed a three-stage approach associated with the analysis of smart card records. First, cardholder residential areas were identified to enrich the available data by integrating demographic information from the census. Then, a clustering analysis was applied to recognise distinctive classes of users based on their public transport usage change between the pre-pandemic and the post-lockdown phase. Finally, two different models were implemented to uncover the relationships between class membership and travellers' characteristics (i.e. travel history and demographic characteristics of their residential area). Results revealed a heterogeneous recovery of public transport usage among passengers, summarising them into two recognisable classes: those who mainly returned to their pre-pandemic patterns and those who adapted their mobility profiles. A statistically significant association of travel history with the mobility adaptation profile was found, as well as with aggregate socio-demographic attributes. These insights about the extent of heterogeneity and its drivers can help in the formulation of specific policies associated with public transport supply in the post-pandemic era.
+C1 [Lizana, Maximiliano; Choudhury, Charisma; Watling, David] Univ Leeds, Inst Transport Studies, Leeds LS2 9JT, England.
+   [Lizana, Maximiliano] Univ La Frontera, Dept Civil Engn, Francisco Salazar 01145, Temuco, Chile.
+C3 University of Leeds; Universidad de La Frontera
+RP Choudhury, C (corresponding author), Univ Leeds, Inst Transport Studies, Leeds LS2 9JT, England.
+EM tsmel@leeds.ac.uk; C.F.Choudhury@leeds.ac.uk;
+   D.P.Watling@its.leeds.ac.uk
+OI Watling, David/0000-0002-6193-9121
+FU Chilean Agency of Research and Development (ANID) through the Becas
+   Chile scholarship; UKRI Future Leader Fellowship [MRT020423/1]
+FX The authors wish to thank the Chilean Metropolitan Public Transport
+   Agency (Directorio de Transporte Publico Metropolitano - DTPM) for
+   making the smart card data available for this study. The funding for
+   this research has been provided by the Chilean Agency of Research and
+   Development (ANID) through the Becas Chile scholarship. Professor
+   Charisma Choudhury's time was supported by the UKRI Future Leader
+   Fellowship [MRT020423/1].
+NR 50
+TC 5
+Z9 5
+U1 2
+U2 12
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2214-367X
+EI 2214-3688
+J9 TRAVEL BEHAV SOC
+JI Travel Behav. Soc.
+PD OCT
+PY 2023
+VL 33
+AR 100620
+DI 10.1016/j.tbs.2023.100620
+EA JUL 2023
+PG 13
+WC Transportation
+WE Social Science Citation Index (SSCI)
+SC Transportation
+GA N4QU5
+UT WOS:001036885000001
+OA hybrid, Green Published
+DA 2024-07-26
+ER
+
+PT J
+AU Chen, X
+   Jiang, Y
+   Ingvardson, JB
+   Luo, X
+   Nielsen, OA
+AF Chen, Xin
+   Jiang, Yu
+   Ingvardson, Jesper Blafoss
+   Luo, Xia
+   Nielsen, Otto Anker
+TI I can board, but I'd rather wait: Active boarding delay choice behaviour
+   analysis using smart card data in metro systems
+SO TRANSPORTATION RESEARCH PART A-POLICY AND PRACTICE
+LA English
+DT Article
+DE Public transport; Active boarding delay; Crowding; Itinerary inference;
+   Smart card records; Revealed preference
+ID PUBLIC TRANSPORT; VALUATION; PREFERENCE; MODEL
+AB In a crowded metro network, it is not unusual to observe that passengers actively choose not to board but wait for the next train for a seat, even if there is vacant standing room on the arriving train. We analyse such behaviour using a logit-based choice model based on revealed preference data collected from the smart card records and the operational timetables. The choice model considers waiting time, fluctuating crowding levels, and passengers' expected seat availability at each station on their trip. The revealed preference data are collected based on an existing time component framework, which can estimate passengers' itineraries by dividing passengers' travel time into time components (i.e. access, egress, boarding delay, and transfer-walking times) and analysing their uncertainty. We improve the time component framework by developing methods for estimating distributions corresponding to each time component. Using Chengdu Metro as a case, we find that the extra waiting time resulting from active boarding delay and standing time is valued 50.5% more positively and 25.3% more negatively than the in-vehicle sitting time, respectively. By comparing our findings with studies focused on passive boarding delays caused by fully loaded trains, we suggest that extra waiting time due to active and passive boarding delays should be explicitly distinguished in practice. The estimation results of the distributions for the time components indicate that access and egress walking times follow different distributions at given stations, as opposed to the assumption in most prior studies.
+C1 [Chen, Xin; Luo, Xia] Southwest Jiaotong Univ, Sch Transportat & Logist, Chengdu, Peoples R China.
+   [Jiang, Yu] Univ Lancaster, Management Sch, Lancaster, England.
+   [Jiang, Yu; Ingvardson, Jesper Blafoss; Nielsen, Otto Anker] Tech Univ Denmark, Dept Management Engn, Lyngby, Denmark.
+C3 Southwest Jiaotong University; Lancaster University; Technical
+   University of Denmark
+RP Luo, X (corresponding author), Southwest Jiaotong Univ, Sch Transportat & Logist, Chengdu, Peoples R China.; Jiang, Y (corresponding author), Univ Lancaster, Management Sch, Lancaster, England.; Jiang, Y (corresponding author), Tech Univ Denmark, Dept Management Engn, Lyngby, Denmark.
+EM yujiang@dtu.dk; xia.luo@263.net
+RI Nielsen, Otto Anker/AAF-2954-2021; Jiang, Yu/AAG-1287-2021
+OI Nielsen, Otto Anker/0000-0001-7901-7021; Jiang, Yu/0000-0001-9461-633X;
+   Xin, Chen/0000-0002-2694-8137
+FU Chinese Scholarship Council; Chunhui Cooperative Research Project of the
+   Ministry of Education of P. R. China [CH2019lt]
+FX This study is supported by the Chinese Scholarship Council and supported
+   in part by the Chunhui Cooperative Research Project of the Ministry of
+   Education of P. R. China (No. CH2019lt) .
+NR 36
+TC 3
+Z9 3
+U1 9
+U2 9
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0965-8564
+EI 1879-2375
+J9 TRANSPORT RES A-POL
+JI Transp. Res. Pt. A-Policy Pract.
+PD AUG
+PY 2023
+VL 174
+AR 103747
+DI 10.1016/j.tra.2023.103747
+EA JUN 2023
+PG 20
+WC Economics; Transportation; Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Transportation
+GA FR8Z1
+UT WOS:001147686700001
+OA Green Published, hybrid
+DA 2024-07-26
+ER
+
+PT J
+AU Lin, JYJ
+   Jenelius, E
+   Cebecauer, M
+   Rubensson, I
+   Chen, CY
+AF Lin, Joanne Yuh-Jye
+   Jenelius, Erik
+   Cebecauer, Matej
+   Rubensson, Isak
+   Chen, Cynthia
+TI The equity of public transport crowding exposure
+SO JOURNAL OF TRANSPORT GEOGRAPHY
+LA English
+DT Article
+DE Public transport; Crowding exposure; Equity; Lorenz curve; Spatial
+   regression
+ID TRANSIT ACCESSIBILITY; SOCIAL DISPARITY; DEMAND; FLAT
+AB Public transport crowding exposure is known to cause discomfort, stress and dissatisfaction. However, the dis-tribution and equity of crowding exposure across socioeconomic groups has been largely unexplored. This paper opens a new research topic connecting crowding exposure in public transport to travelers' socioeconomic characteristics. We present a framework for assessing the equity of in-vehicle crowding exposure based on automatic data sources. Two metrics are considered for quantifying the travelers' in-vehicle crowding exposure: (1) the excess perceived travel time and (2) the relative excess perceived travel time. The proposed methodology computes the two metrics based on travel diaries and in-vehicle loads inferred from automated fare collection data. We implement Lorenz curves, Gini and Suits coefficients to evaluate horizontal (across the population) and vertical equity (considering income as well as mobility ability and need). The vertical equity is further discussed using clusters of socioeconomic groups and results from spatial lag regression models to assess the distribution of crowding exposure across socioeconomic characteristics. The results for the Stockholm Region case study indi-cate that crowding exposure varies substantially across the service area, with the highest values found in the denser urban areas close to Stockholm City. We find that the distribution across socioeconomic groups is rela-tively even, but travelers from areas that are wealthier, higher educated, have higher share of rental housing or lower vehicle ownership areas tend to be exposed to more crowding. The paper provides tools to support public transport planners in decision-making, showing where to intervene to reduce crowding exposure efficiently to achieve urban equity and sustainability.
+C1 [Lin, Joanne Yuh-Jye; Chen, Cynthia] Univ Washington, Dept Civil & Environm Engn, Seattle, WA 98195 USA.
+   [Jenelius, Erik; Cebecauer, Matej] KTH Royal Inst Technol, Dept Civil & Architectural Engn, Stockholm, Sweden.
+   [Rubensson, Isak] KTH Royal Inst Technol, Dept Urban Planning & Environm, Trafikforvaltningen Publ Transport Adm, Stockholm, Sweden.
+C3 University of Washington; University of Washington Seattle; Royal
+   Institute of Technology; Royal Institute of Technology
+RP Lin, JYJ (corresponding author), Univ Washington, Dept Civil & Environm Engn, Seattle, WA 98195 USA.
+EM joanneyj@uw.edu; jenelius@kth.se; matejc@kth.se;
+   isak.jarlebring-rubensson@regionstockholm.se; qzchen@uw.edu
+RI Jenelius, Erik/I-8061-2017
+OI Jenelius, Erik/0000-0002-4106-3126; Rubensson, Isak/0000-0003-0307-7946
+FU Valle Scholarship at the University of Washington; Scandinavian Exchange
+   Program at the University of Washington; TRENoP Strategic Research Area
+FX & nbsp;The project was supported by the scholarship funded by the Valle
+   Scholarship and Scandinavian Exchange Program at the University of
+   Washington and TRENoP Strategic Research Area. The authors wouldlike to
+   thank Region Stockholm for sharing the data used for this project.
+NR 57
+TC 3
+Z9 4
+U1 8
+U2 16
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0966-6923
+EI 1873-1236
+J9 J TRANSP GEOGR
+JI J. Transp. Geogr.
+PD JUN
+PY 2023
+VL 110
+AR 103631
+DI 10.1016/j.jtrangeo.2023.103631
+EA JUN 2023
+PG 14
+WC Economics; Geography; Transportation
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Geography; Transportation
+GA N5KC2
+UT WOS:001037388700001
+OA Green Submitted
+DA 2024-07-26
+ER
+
+PT J
+AU Shanthappa, NK
+   Mulangi, RH
+   Manjunath, HM
+AF Shanthappa, Nithin K.
+   Mulangi, Raviraj H.
+   Manjunath, Harsha M.
+TI The Spatiotemporal Patterns of Bus Passengers: Visualisation and
+   Evaluation using Non-negative Tensor Decomposition
+SO JOURNAL OF GEOVISUALIZATION AND SPATIAL ANALYSIS
+LA English
+DT Article
+DE Spatiotemporal visualisation; Bus passenger mobility pattern; Electronic
+   ticketing machine; Non-negative tensor decomposition; Seasonal
+   variation; Land use
+ID SMART CARD DATA; TRAVEL; WEATHER; RIDERSHIP; BRISBANE; IMPACTS
+AB Spatiotemporal analysis of passenger mobility patterns provides valuable information regarding the travel behaviour of passengers at different spatial and temporal scales. However, in the spatiotemporal analysis of passenger mobility patterns, a few questions are yet to be answered: how does passenger travel behaviour change during different seasons? In developing countries like India where land use distribution is complex, do travel characteristics have a relationship with spatial regions of different land use? And what is the influence of people from nearby sub-urban and villages on the passenger mobility of urban areas if transit service is provided? Hence, this study developed a methodology to visualise and analyse spatiotemporal variations in the bus passenger travel behaviour among different spatial regions at hourly, daily, and monthly temporal resolutions using non-negative tensor decomposition (NTD). Six-month electronic ticketing machine (ETM) data of the Davangere city bus service is collected. Land use data is also collected from the urban development authority of Davangere city. NTD was found efficient in extracting spatiotemporal patterns. From the analysis, it is observed that passenger mobility patterns across different spatial regions varied during different seasons and within a season as well. Pertaining to spatial variations, passenger origins and destinations are aggregated with respect to spatial regions with uniform land use or similar travel characteristics without giving any geographical inputs. Also, the mobility pattern of sub-urban and village people varied unconventionally. Thus, developed research methodology has the potential of unveiling the spatiotemporal variations in passenger mobility, which can act as a base for designing transit facilities and framing policies.
+C1 [Shanthappa, Nithin K.; Mulangi, Raviraj H.] Natl Inst Technol Karnataka, Dept Civil Engn, Surathkal, India.
+   [Manjunath, Harsha M.] Siddaganga Inst Technol, Dept Civil Engn, Tumkur, Karnataka, India.
+C3 National Institute of Technology (NIT System); National Institute of
+   Technology Karnataka; Siddaganga Institute of Technology
+RP Mulangi, RH (corresponding author), Natl Inst Technol Karnataka, Dept Civil Engn, Surathkal, India.
+EM ravirajmh@nitk.edu.in
+OI M M, Harsha/0000-0002-6436-3287
+NR 46
+TC 5
+Z9 6
+U1 3
+U2 9
+PU SPRINGERNATURE
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+SN 2509-8810
+EI 2509-8829
+J9 J GEOVIS SPAT ANAL
+JI J. Geovis. Spat. Anal.
+PD JUN
+PY 2023
+VL 7
+IS 1
+AR 9
+DI 10.1007/s41651-023-00139-z
+PG 19
+WC Environmental Sciences; Geography; Geography, Physical; Remote Sensing
+WE Emerging Sources Citation Index (ESCI)
+SC Environmental Sciences & Ecology; Geography; Physical Geography; Remote
+   Sensing
+GA D3MP9
+UT WOS:000967803800001
+DA 2024-07-26
+ER
+
+PT J
+AU Lin, YQ
+   Xu, Y
+   Zhao, Z
+   Park, S
+   Su, SL
+   Ren, MY
+AF Lin, Yuqian
+   Xu, Yang
+   Zhao, Zhan
+   Park, Sangwon
+   Su, Shiliang
+   Ren, Mengyao
+TI Understanding changing public transit travel patterns of urban visitors
+   during COVID-19: A multi-stage study
+SO TRAVEL BEHAVIOUR AND SOCIETY
+LA English
+DT Article
+DE COVID-19; Travel behavior; Public transit; Tourism; Smart card data
+ID MOBILITY PATTERNS; LOCKDOWN PERIOD; TRANSPORT; IMPACTS; TOURISM;
+   VARIABILITY; BEHAVIOR; INDUSTRY; CRISIS; CITY
+AB COVID-19 has caused huge disruptions to urban travel and mobility. As a critical transportation mode in cities, public transit was hit hardest. In this study, we analyze public transit usage of urban visitors with a nearly twoyear smart card dataset collected in Jeju, South Korea - a major tourism city in the Asia Pacific. The dataset captures transit usage behavior of millions of domestic visitors who traveled to Jeju between January 1, 2019 and September 30, 2020. By identifying a few key pandemic stages based on COVID-19 timeline, we employ ridge regression models to investigate the impact of pandemic severity on transit ridership. We then derive a set of mobility indicators - from perspectives of trip frequency, spatial diversity, and travel range - to quantify how individual visitors used the transit system during their stay in Jeju. By further employing time series decomposition, we extract the trend component for each mobility indicator to study long-term dynamics of visitors' mobility behavior. According to the regression analysis, the pandemic had a dampening effect on public transit ridership. The overall ridership was jointly affected by national and local pandemic situations. The time series decomposition result reveals a long-term decay of individual transit usage, hinting that visitors in Jeju tended to use the transit system more conservatively as the pandemic endured. The study provides critical insights into urban visitors' transit usage behavior during the pandemic and sheds light on how to restore tourism, public transit usage, and overall urban vibrancy with some policy suggestions.
+C1 [Lin, Yuqian; Xu, Yang; Ren, Mengyao] Hong Kong Polytech Univ, Dept Land Surveying & Geoinformat, Hong Kong, Peoples R China.
+   [Zhao, Zhan] Univ Hong Kong, Dept Urban Planning & Design, Hong Kong, Peoples R China.
+   [Park, Sangwon] Kyung Hee Univ, Coll Hotel & Tourism Management, Smart Tourism Educ Platform, Seoul, South Korea.
+   [Su, Shiliang] Wuhan Univ, Sch Resource & Environm Sci, Wuhan, Peoples R China.
+C3 Hong Kong Polytechnic University; University of Hong Kong; Kyung Hee
+   University; Wuhan University
+RP Xu, Y (corresponding author), Hong Kong Polytech Univ, Dept Land Surveying & Geoinformat, Hong Kong, Peoples R China.
+EM yang.ls.xu@polyu.edu.hk
+RI Zhao, Zhan/AFH-6852-2022; Su, Shiliang/ABF-0222-2022
+OI Zhao, Zhan/0000-0001-5170-9608; 
+NR 69
+TC 3
+Z9 3
+U1 12
+U2 32
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2214-367X
+EI 2214-3688
+J9 TRAVEL BEHAV SOC
+JI Travel Behav. Soc.
+PD JUL
+PY 2023
+VL 32
+AR 100587
+DI 10.1016/j.tbs.2023.100587
+EA MAY 2023
+PG 16
+WC Transportation
+WE Social Science Citation Index (SSCI)
+SC Transportation
+GA I2JE6
+UT WOS:001001090400001
+PM 37153378
+OA Green Published
+DA 2024-07-26
+ER
+
+PT J
+AU Jiao, HZ
+   Huang, SB
+   Zhou, Y
+AF Jiao, Hongzan
+   Huang, Shibiao
+   Zhou, Yu
+TI Understanding the land use function of station areas based on
+   spatiotemporal similarity in rail transit ridership: A case study in
+   Shanghai, China
+SO JOURNAL OF TRANSPORT GEOGRAPHY
+LA English
+DT Article
+DE Land use function; Ridership; Stations clustering; Spatial dependency;
+   Spatiotemporal similarity
+ID SMART CARD DATA; TIME-SERIES; ORIENTED DEVELOPMENT; PATTERNS; METRO;
+   MODEL; ACCESSIBILITY; DYNAMICS; SPACE; WORK
+AB In recent decades, transit-oriented development (TOD) has been considered as an effective way to alleviate the negative impacts of rapid urbanization. The ridership of rail stations is an important indicator for understanding the relationship between rail transit and land use, which helps enhance their coordinated development. How to regulate such development is a fundamental question that planning of rail stations and surrounding land use endeavors to answer. Understanding the relationship between rail transit and land use is the basis of effective planning. From smart card data (SCD), the boarding and alighting ridership time series can be extracted to understand their relationship from a new perspective. Current studies mainly consider the temporal similarity of ridership time series between individual stations but ignore spatial dependency between a station and its adjacent stations. To fill this gap, this paper proposes a novel method for refining the understanding from a spatiotemporal similarity perspective. First, we measure the temporal similarity of ridership time series between two individual stations using the autocorrelation function method. Second, we determine the spatiotemporal similarity between two stations by integrating the temporal similarity from their adjacent stations based on spatial dependency. Finally, the extracted spatiotemporal similarity is used for spectral clustering. As a case study, we analyze SCD on five consecutive weekdays at 289 rail stations in Shanghai, China. The land use functions of rail station areas are classified into 6 clusters: employment-oriented stations, residential-oriented stations, mixed stations, etc. By comparing the enrichment factors of each type of points of interest (POIs) in these clusters, the dominant land use function between our classification and POI information is demonstrated to be consistent. Furthermore, using three clustering performance indexes and several typical stations, the priority of our proposed method with integration of the spatial dependency can be confirmed to be superior to those without considering such important information. We conclude that the proposed method and findings are beneficial to balancing the needs of public transportation development and promoting the integration of transportation and land use for TOD implementation.
+C1 [Jiao, Hongzan; Huang, Shibiao] Wuhan Univ, Sch Urban Design, Dept Urban Planning, Wuhan 430072, Peoples R China.
+   [Jiao, Hongzan] Wuhan Univ, Digital City Res Ctr, Wuhan 430072, Peoples R China.
+   [Zhou, Yu] East China Normal Univ, Inst Global Innovat & Dev, Shanghai 200062, Peoples R China.
+   [Zhou, Yu] East China Normal Univ, Sch Urban & Reg Sci, Shanghai 200062, Peoples R China.
+   [Zhou, Yu] Chinese Univ Hong Kong, Inst Future Cities, Hong Kong, Peoples R China.
+C3 Wuhan University; Wuhan University; East China Normal University; East
+   China Normal University; Chinese University of Hong Kong
+RP Zhou, Y (corresponding author), East China Normal Univ, Inst Global Innovat & Dev, Shanghai 200062, Peoples R China.; Zhou, Y (corresponding author), East China Normal Univ, Sch Urban & Reg Sci, Shanghai 200062, Peoples R China.; Zhou, Y (corresponding author), Chinese Univ Hong Kong, Inst Future Cities, Hong Kong, Peoples R China.
+EM jiaohongzan@whu.edu.cn; huangshibiao@whu.edu.cn; yzhou@re.ecnu.edu.cn
+FU National Natural Science Foundation of China Major Program [42192580,
+   42192583]; National Key Research and Development Program "Research and
+   Development of Emergency Response and Collaborative Command System with
+   Holographic Perception of Traffic Network Disaster" [2020YFC1512002];
+   Open Fund of the Key Laboratory of Intelligent Spatial Planning
+   Technology, Ministry of Natural Resources [20220308]
+FX This work was supported by the National Natural Science Foundation of
+   China Major Program (Grant Nos. 42192580 and 42192583), the National Key
+   Research and Development Program "Research and Development of Emergency
+   Response and Collaborative Command System with Holographic Perception of
+   Traffic Network Disaster" (Grant No. 2020YFC1512002) and the Open Fund
+   of the Key Laboratory of Intelligent Spatial Planning Technology,
+   Ministry of Natural Resources (Grant No. 20220308) . We would like to
+   express our gratitude to the Shanghai Open Data Apps (SODA) contest for
+   making the data available for this research. We are also grateful for
+   the valuable suggestions from the associate editor (Prof. Jiaoe Wang)
+   and two anonymous reviewers.
+NR 64
+TC 6
+Z9 6
+U1 23
+U2 75
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0966-6923
+EI 1873-1236
+J9 J TRANSP GEOGR
+JI J. Transp. Geogr.
+PD MAY
+PY 2023
+VL 109
+AR 103568
+DI 10.1016/j.jtrangeo.2023.103568
+EA APR 2023
+PG 16
+WC Economics; Geography; Transportation
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Geography; Transportation
+GA F0RA2
+UT WOS:000979493300001
+DA 2024-07-26
+ER
+
+PT J
+AU Li, P
+   Wu, WT
+   Pei, XJ
+AF Li, Peng
+   Wu, Weitiao
+   Pei, Xiangjing
+TI A separate modelling approach for short-term bus passenger flow
+   prediction based on behavioural patterns: A hybrid decision tree method
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+LA English
+DT Article
+DE Passenger flow prediction; Separate modelling approach; Passenger
+   classification; Multi -source information; Hybrid decision tree
+ID TRAVEL-TIME PREDICTION; REAL-TIME; DEMAND; DECOMPOSITION; NETWORK
+AB Accurate short-term passenger flow prediction plays an important role in transit plan-ning and operation. Existing research is mostly based on a joint modelling approach in which transit demand is predicted in an aggregated manner taking the overall passenger flow as input. A critical problem for the joint modelling approach is that the complexity of passenger flow composition and the distinct behavioural response to influential factors are missing out. To address this challenge, this paper proposes a separate modelling approach for passenger flow prediction based on behavioural patterns. To this end, we develop a novel hybrid decision tree (HDT) model coupled with a decision tree model and time series model. The upper layer is a decision tree model, in which the dataset is divided according to passenger types and influential factors, while the lower layer is the time series model achieved by the recurrent neural network. Particularly, this research first undertakes passenger classification using smartcard data through cluster analysis, from which the correlation between the classified passenger flow and influential factors is obtained. The proposed method is tested in a real-life bus route in Guangzhou, China. We also investigate the impact of passenger classification schemes and the minimum amount of data contained by leaf nodes on the performance of the HDT model. Based on this, we recommend the best classification scheme and the optimal value of the minimum amount of data contained by leaf nodes. Comparisons show that our method outperforms other traditional methods in terms of both prediction accuracy and stability. In addition, our method could also provide the prediction of passenger flow composition, which provides more references for customized bus service design.(c) 2023 Elsevier B.V. All rights reserved.
+C1 [Li, Peng] Shenzhen Polytech, Sch Automot & Transportat Engn, Shenzhen 518055, Peoples R China.
+   [Li, Peng; Wu, Weitiao] South China Univ Technol, Sch Civil Engn & Transportat, Guangzhou 510641, Guangdong, Peoples R China.
+   [Pei, Xiangjing] Guangdong Teachers Coll Foreign Language & Arts, Sch Accounting & Finance, Guangzhou 510641, Guangdong, Peoples R China.
+C3 Shenzhen Polytechnic University; South China University of Technology
+RP Wu, WT (corresponding author), South China Univ Technol, Sch Civil Engn & Transportat, Guangzhou 510641, Guangdong, Peoples R China.; Pei, XJ (corresponding author), Guangdong Teachers Coll Foreign Language & Arts, Sch Accounting & Finance, Guangzhou 510641, Guangdong, Peoples R China.
+EM ctwtwu@scut.edu.cn; peixiangjing@sina.cn
+RI LI, Peng/H-2719-2017
+OI Wu, Weitiao/0000-0001-9047-0812
+FU National Science Foundation of China [72071079, 52272310]; Guangdong
+   Basic and Applied Basic Research Foundation, China [2020A1515111024,
+   2023A1515011696]; Key Research and Development Program of Guangzhou,
+   China [202206030005, 202103050002, 202206010056]
+FX Acknowledgements This work is partly supported by the National Science
+   Foundation of China (Project No. 72071079, 52272310) , the Guangdong
+   Basic and Applied Basic Research Foundation, China (Project No.
+   2020A1515111024, 2023A1515011696) , and the Key Research and Development
+   Program of Guangzhou, China (Project No. 202206030005, 202103050002,
+   202206010056) .
+NR 48
+TC 4
+Z9 4
+U1 7
+U2 15
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0378-4371
+EI 1873-2119
+J9 PHYSICA A
+JI Physica A
+PD APR 15
+PY 2023
+VL 616
+AR 128567
+DI 10.1016/j.physa.2023.128567
+EA MAR 2023
+PG 25
+WC Physics, Multidisciplinary
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Physics
+GA H0ZI5
+UT WOS:000993325000001
+DA 2024-07-26
+ER
+
+PT J
+AU Cats, O
+   Ferranti, F
+AF Cats, Oded
+   Ferranti, Francesco
+TI Unravelling the spatial properties of individual mobility patterns using
+   longitudinal travel data
+SO JOURNAL OF URBAN MOBILITY
+LA English
+DT Article
+DE User segmentation; Spatial patterns; Public transport; Clustering; Smart
+   card data
+ID SMARTCARD DATA
+AB The analysis of longitudinal travel data enables investigating how mobility patterns vary across the population and identify the spatial properties thereof. The objective of this study is to identify the extent to which users explore different parts of the network as well as identify distinctive user groups in terms of the spatial extent of their mobility patterns. To this end, we propose two means for representing spatial mobility profiles and clustering travellers accordingly. We represent users patterns in terms of zonal visiting frequency profiles and grid-cells spatial extent heatmaps. We apply the proposed analysis to a large-scale multi-modal mobility dataset from the public transport system in Stockholm, Sweden. We unravel three clusters -Locals, Commuters and Explorers -that best describe the zonal visiting frequency and show that their composition varies considerably across users' place of residence. We also identify 15 clusters of visiting spatial extent based on the intensity and direction in which they are oriented. A cross-analysis of the results of the two clustering methods reveals that user segmentation based on exploration patterns and spatial extent are largely independent, indicating that the two different clustering approaches provide fundamentally different insights into the underlying spatial properties of individuals' mobility patterns. The approach proposed and demonstrated in this study could be applied for any longitudinal individual travel demand data.
+C1 [Cats, Oded] Delft Univ Technol, Dept Transport & Planning, Delft, Netherlands.
+   [Cats, Oded; Ferranti, Francesco] KTH Royal Inst Technol, Div Transport Planning, Stockholm, Sweden.
+C3 Delft University of Technology; Royal Institute of Technology
+RP Cats, O (corresponding author), Delft Univ Technol, Dept Transport & Planning, Delft, Netherlands.; Cats, O (corresponding author), KTH Royal Inst Technol, Div Transport Planning, Stockholm, Sweden.
+EM o.cats@tudelft.nl
+FU Region Stockholm, project "Unravelling travel demand patterns using
+   Access card data" [RS 2019-0499]; TU Delft AI Labs programme
+FX This study is funded by Region Stockholm, project "Unravelling travel
+   demand patterns using Access card data" RS 2019-0499 and supported by
+   the TU Delft AI Labs programme. We also thank Region Stockholm for
+   providing the smart card data that made this study possible. The authors
+   also thank Isak Rubensson, Matej Cebecauer and Erik Jenelius for their
+   support in the process.
+NR 30
+TC 1
+Z9 1
+U1 2
+U2 2
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2667-0917
+J9 J URBAN MOBIL
+JI J. Urban Mobil.
+PD DEC
+PY 2022
+VL 2
+AR 100035
+DI 10.1016/j.urbmob.2022.100035
+PG 10
+WC Geography; Regional & Urban Planning; Transportation
+WE Emerging Sources Citation Index (ESCI)
+SC Geography; Public Administration; Transportation
+GA Y2IR5
+UT WOS:001103560200009
+OA gold, Green Submitted
+DA 2024-07-26
+ER
+
+PT J
+AU Tiam-Lee, TJ
+   Henriques, R
+AF Tiam-Lee, Thomas James
+   Henriques, Rui
+TI Route choice estimation in rail transit systems using smart card data:
+   handling vehicle schedule and walking time uncertainties
+SO EUROPEAN TRANSPORT RESEARCH REVIEW
+LA English
+DT Article
+DE Urban rail transit; Transportation; Statistical modelling; Route choice
+ID ASSIGNMENT MODEL; PASSENGER; BEHAVIOR; DELAYS
+AB Several cities around the world rely on urban rail transit systems composed of interconnected lines, serving massive numbers of passengers on a daily basis. Accessing the location of passengers is essential to ensure the efficient and safe operation and planning of these systems. However, passenger route choices between origin and destination pairs are variable, depending on the subjective perception of travel and waiting times, required transfers, convenience factors, and on-site vehicle arrivals. This work proposes a robust methodology to estimate passenger route choices based only on automated fare collection data, i.e. without privacy-invasive sensors and monitoring devices. Unlike previous approaches, our method does not require precise train timetable information or prior route choice models, and is robust to unforeseen operational events like malfunctions and delays. Train arrival times are inferred from passenger volume spikes at the exit gates, and the likelihood of eligible routes per passenger estimated based on the alignment between vehicle location and the passenger timings of entrance and exit. Applying this approach to automated fare collection data in Lisbon, we find that while in most cases passengers preferred the route with the least transfers, there were a significant number of cases where the shorter distance was preferred. Our findings are valuable for decision support among rail operators in various aspects such as passenger traffic bottleneck resolution, train allocation and scheduling, and placement of services.
+C1 [Tiam-Lee, Thomas James; Henriques, Rui] Univ Lisbon, Inst Super Tecn, INESC ID, Lisbon, Portugal.
+C3 Universidade de Lisboa; INESC-ID
+RP Tiam-Lee, TJ (corresponding author), Univ Lisbon, Inst Super Tecn, INESC ID, Lisbon, Portugal.
+EM thomas.tiam-lee@tecnico.ulisboa.pt
+OI Henriques, Rui/0000-0002-3993-0171; Tiam-Lee, Thomas
+   James/0000-0003-1820-3984
+FU Fundacao para a Ciencia e Tecnologia (FCT) [DSAIPA/DS/0111/2018,
+   UIDB/50021/2020]
+FX This work was supported by national funds through Fundacao para a
+   Ciencia e Tecnologia (FCT) under projects ILU (DSAIPA/DS/0111/2018) and
+   INESC-ID pluriannual (UIDB/50021/2020).
+NR 24
+TC 3
+Z9 3
+U1 4
+U2 25
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1867-0717
+EI 1866-8887
+J9 EUR TRANSP RES REV
+JI Eur. Transp. Res. Rev.
+PD DEC
+PY 2022
+VL 14
+IS 1
+AR 31
+DI 10.1186/s12544-022-00558-x
+PG 16
+WC Transportation; Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Transportation
+GA 3A0BT
+UT WOS:000826932500002
+PM 38625245
+OA gold
+DA 2024-07-26
+ER
+
+PT J
+AU Ye, JX
+   Zhao, JJ
+   Zheng, FR
+   Xu, CZ
+AF Ye, Jiexia
+   Zhao, Juanjuan
+   Zheng, Furong
+   Xu, Chengzhong
+TI Completion and augmentation-based spatiotemporal deep learning approach
+   for short-term metro origin-destination matrix prediction under limited
+   observable data
+SO NEURAL COMPUTING & APPLICATIONS
+LA English
+DT Article
+DE Origin-destination matrix prediction; Destination distribution
+   availability; Self-Attention mechanism; Temporal convolution network
+ID NETWORK; MODEL
+AB Accurate prediction of short-term origin-destination (OD) matrix is crucial for operations in metro systems. Recently, some deep learning-based models have been proposed for OD matrix forecasting in ride-hailing or high-way scenarios. However, the metro OD matrix forecasting receives less attention, and it has different prior knowledge and complex spatiotemporal contextual setting; for example, the sparse destination distribution and the incomplete OD matrices collection in recent time intervals due to unfinished trips before the predicted time interval. This paper designs a deep learning approach for metro OD matrix prediction by addressing the recent destination distribution availability, augmenting the flow presentation for each station, and digging out the global spatial dependency and multiple temporal scale correlations in the mobility patterns of metro passengers. Specifically, it first proposes to complete the recent OD matrices by combining some empirical knowledge including the historical mobility pattern and arrival time distribution. Then, it learns the complementary spatiotemporal contextual features by embedding methods to enrich the station representation. Finally, it captures global mobility trend of metro passengers at each origin station through aggregating the trend of all other origin stations by self-attention mechanism since the mobility synchronizes among stations from spatial perspective. Three temporal convolutional networks are leveraged to extract three temporal trends in passenger mobility data, i.e., recent trend, daily trend, and weekly trend. Smart card data from Shenzhen and Hangzhou metro systems are utilized to demonstrate the superiority of our model over other competitors.
+C1 [Ye, Jiexia] Chinese Acad Sci, Shenzhen Inst Adv Technol, Guangdong Hong Kong Macao Joint Lab Human Machine, Shenzhen, Peoples R China.
+   [Zhao, Juanjuan; Zheng, Furong] Chinese Acad Sci, Shenzhen Inst Adv Technol, Shenzhen, Peoples R China.
+   [Xu, Chengzhong] Univ Macau, Dept Comp Sci, State Key Lab IOTSC, Taipa, Macao, Peoples R China.
+C3 Chinese Academy of Sciences; Shenzhen Institute of Advanced Technology,
+   CAS; Chinese Academy of Sciences; Shenzhen Institute of Advanced
+   Technology, CAS; University of Macau
+RP Zhao, JJ (corresponding author), Chinese Acad Sci, Shenzhen Inst Adv Technol, Shenzhen, Peoples R China.
+EM zumri.jiexiaye@um.edu.mo; jj.zhao@siat.ac.cn; fr.zheng@siat.ac.cn;
+   czxu@um.edu.mo
+RI XU, CHENGZHONG/AAX-1707-2020
+OI XU, CHENGZHONG/0000-0001-9480-0356; juanjuan, zhao/0000-0003-1002-9272
+FU National Key R&D Program of China [2019YFB2102100]; Shenzhen Industrial
+   Application Projects of undertaking the National key R&D Program of
+   China [CJGJZD20210408091600002]; Shenzhen Basic Research Program
+   [JCYJ20190812153212464]; Fundamental Research Foundation of Shenzhen
+   Technology and Innovation Council [KCXFZ20201221173613035]
+FX This work is supported by the National Key R&D Program of China
+   (No.2019YFB2102100); Shenzhen Industrial Application Projects of
+   undertaking the National key R&D Program of China
+   (No.CJGJZD20210408091600002); Shenzhen Basic Research Program
+   (No.JCYJ20190812153212464); The Fundamental Research Foundation of
+   Shenzhen Technology and Innovation Council (No. KCXFZ20201221173613035).
+NR 53
+TC 9
+Z9 9
+U1 7
+U2 46
+PU SPRINGER LONDON LTD
+PI LONDON
+PA 236 GRAYS INN RD, 6TH FLOOR, LONDON WC1X 8HL, ENGLAND
+SN 0941-0643
+EI 1433-3058
+J9 NEURAL COMPUT APPL
+JI Neural Comput. Appl.
+PD FEB
+PY 2023
+VL 35
+IS 4
+SI SI
+BP 3325
+EP 3341
+DI 10.1007/s00521-022-07866-2
+EA OCT 2022
+PG 17
+WC Computer Science, Artificial Intelligence
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Computer Science
+GA 8K3TD
+UT WOS:000865380100001
+OA Green Submitted
+DA 2024-07-26
+ER
+
+PT J
+AU Lee, EH
+AF Lee, Eun Hak
+TI Exploring Transit Use during COVID-19 Based on XGB and SHAP Using Smart
+   Card Data
+SO JOURNAL OF ADVANCED TRANSPORTATION
+LA English
+DT Article
+ID CHOICE; MODEL
+AB As the coronavirus (COVID-19) pandemic continues, many protective measures have been taken in Seoul, Korea, and around the world. This situation has drastically changed lifestyle and travel behavior. An important issue concerns understanding the reasons for giving up transit use and the potential impact on travel patterns during the COVID-19 pandemic. To shed light on these issues that are essential for transit policy, this study explores transit use choice, such as whether users have given-up transit use or not, during the COVID-19 pandemic. Two days of smart card data, before and during the COVID-19 pandemic, were used to look at users who gave up transit use during the COVID-19 pandemic. The choice set of the dataset includes two alternatives, for example, transit use and given-up transit use. An extreme gradient boosting (XGB) model was used to estimate the transit use behavior. Shapley additive explanations were performed to interpret the estimation results of the XGB model. The results for the overall specificity, sensitivity, and balanced accuracy of the proposed XGB model were estimated to be 0.909, 0.953, and 0.931, respectively. The feature analysis based on the Shapley value shows that the number of origin-to-destination trip feature substantially impacts transit use. As such, users tend to avoid transit use as travel time increased during the COVID-19 pandemic. The proposed model shows remarkable performance in accuracy and provided an understanding of the estimated results.
+C1 [Lee, Eun Hak] Texas A&M Transportat Inst, Multimodal Planning & Environm Div, 1111 Rellis Pkwy, Bryan, TX 77807 USA.
+C3 Texas A&M University System; Texas A&M University College Station
+RP Lee, EH (corresponding author), Texas A&M Transportat Inst, Multimodal Planning & Environm Div, 1111 Rellis Pkwy, Bryan, TX 77807 USA.
+EM e-lee@tti.tamu.edu
+RI Lee, Eun Hak/KCY-4860-2024
+OI Lee, Eun Hak/0000-0001-5989-4895
+NR 28
+TC 6
+Z9 6
+U1 1
+U2 8
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 0197-6729
+EI 2042-3195
+J9 J ADV TRANSPORT
+JI J. Adv. Transp.
+PD SEP 9
+PY 2022
+VL 2022
+AR 6458371
+DI 10.1155/2022/6458371
+PG 12
+WC Engineering, Civil; Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Transportation
+GA 4W9XX
+UT WOS:000860508600003
+OA gold
+DA 2024-07-26
+ER
+
+PT J
+AU Lee, I
+   Cho, SH
+   Kim, K
+   Kho, SY
+   Kim, DK
+AF Lee, Inmook
+   Cho, Shin-Hyung
+   Kim, Kyoungtae
+   Kho, Seung-Young
+   Kim, Dong-Kyu
+TI Travel pattern-based bus trip origin-destination estimation using smart
+   card data
+SO PLOS ONE
+LA English
+DT Article
+ID ALGORITHM; MATRIX
+AB Smart card data are widely used in generating the origin and destination (O-D) matrix for public transit, which contains important information for transportation planning and operation. However, the generation of the O-D matrix is limited by the smart card data information that includes the boarding (origin) information without the alighting (destination) information. To solve this problem, trip chain methods have been proposed, thereby greatly contributing in estimating the destination using the smart card data. Nevertheless, unlinked trips, that is, trips with unknown destinations, are a persisting issue. The purpose of this study is to develop a method for estimating the destination of unlinked trips, in which trip chain methods cannot be applied, using temporal travel patterns and historical boarding records of the passengers based on long-term smart card data. The passengers were clustered by k-means clustering, and the time-of-day travel patterns were estimated for each cluster using a Gaussian mixture model. The travel patterns were formulated to estimate the destination of the passengers from the smart card data. The proposed method was verified using the 2018 smart card data collected in Sejong City, South Korea. The existing trip chain method matched the destinations of 60.0% of the total trips, whereas the proposed method improved the matching to 74.9% by additionally matching the destinations of 37.2% of the unlinked trips.
+C1 [Lee, Inmook; Kim, Kyoungtae] Korea Railrd Res Inst, Innovat Transportat & Logist Res Ctr, Uiwang Si, Gyeonggi Do, South Korea.
+   [Lee, Inmook; Kho, Seung-Young; Kim, Dong-Kyu] Seoul Natl Univ, Dept Civil & Environm Engn, Seoul, South Korea.
+   [Cho, Shin-Hyung] Univ Seoul, Dept Transportat Engn, Seoul, South Korea.
+   [Kho, Seung-Young; Kim, Dong-Kyu] Seoul Natl Univ, Inst Construct & Environm Engn, Seoul, South Korea.
+C3 Korea Railroad Research Institute (KRRI); Seoul National University
+   (SNU); University of Seoul; Seoul National University (SNU)
+RP Kim, DK (corresponding author), Seoul Natl Univ, Dept Civil & Environm Engn, Seoul, South Korea.; Kim, DK (corresponding author), Seoul Natl Univ, Inst Construct & Environm Engn, Seoul, South Korea.
+EM dongkyukim@snu.ac.kr
+RI Cho, Shin-Hyung/ABH-3915-2020
+OI Cho, Shin-Hyung/0000-0001-6499-1497; Lee, Inmook/0000-0001-9853-151X;
+   Kim, Dong-Kyu/0000-0003-0746-3043
+FU R&D Program of the Korea Railroad Research Institute, Republic of Korea
+   [PK2202D1]
+FX Inmook Lee was supported by a grant from R&D Program ("Core Technologies
+   Development for Enhancing Operational Efficiency of Railway Network",
+   PK2202D1) of the Korea Railroad Research Institute, Republic of Korea
+   (https://www.krri.re.kr/html/kr/).The funder had no role in study
+   design, data collection and analysis, decision to publish, or
+   preparation of the manuscript.publish, or preparation of the manuscript.
+NR 30
+TC 4
+Z9 4
+U1 5
+U2 22
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD JUN 24
+PY 2022
+VL 17
+IS 6
+AR e0270346
+DI 10.1371/journal.pone.0270346
+PG 20
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA 7D2GI
+UT WOS:000900315200001
+PM 35749407
+OA Green Published, gold
+DA 2024-07-26
+ER
+
+PT J
+AU Ku, WK
+   Kou, KP
+   Lam, SH
+   Wong, KI
+AF Ku, W. K.
+   Kou, K. P.
+   Lam, S. H.
+   Wong, K., I
+TI Trip-pair based clustering model for urban mobility of bus passengers in
+   Macao
+SO TRANSPORTMETRICA A-TRANSPORT SCIENCE
+LA English
+DT Article
+DE Smartcard data; clustering; urban mobility; regularity; transit bus
+ID DESTINATION ESTIMATION; VEHICLE OWNERSHIP; CAR; PATTERNS
+AB Public transit is a major mode of urban mobility in Macao, a compact and populous city in China. Public transit ridership is related to round-the-clock shift-based work arrangements in the gaming industry. Smartcards that are used in transit fare collection are a vital data source for understanding the travel patterns and characteristics of transit passengers. However, transactional information from single data sources is fragmented, hindering the extraction of mobility patterns. We proposed a trip-pair-based clustering model that extracts the within-day mobility patterns of bus riders. DBSCAN is employed to filter scattered trips and hierarchical agglomerative clustering to identify clusters. Using a six-month smartcard dataset from Macao, categories of bus passengers were identified. Travel patterns exist with irregular, one-way, and round-trip passengers, and shift workers. The unique shift-based work-life and mixed travel modes in Macao can serve as an example of dense and compact city travel for smart cities.
+C1 [Ku, W. K.; Kou, K. P.; Lam, S. H.] Univ Macau, Dept Civil & Environm Engn, Macau, Peoples R China.
+   [Wong, K., I] Natl Yang Ming Chiao Tung Univ, Dept Transportat & Logist Management, Hsinchu, Taiwan.
+C3 University of Macau; National Yang Ming Chiao Tung University
+RP Ku, WK (corresponding author), Univ Macau, Dept Civil & Environm Engn, Macau, Peoples R China.
+EM kuwengkeong@gmail.com
+RI Lam, Soi Hoi/N-2158-2019
+OI Lam, Soi Hoi/0000-0002-2598-1613; Ku, Wengkeong/0000-0002-7618-7145
+NR 42
+TC 2
+Z9 2
+U1 8
+U2 24
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 2324-9935
+EI 2324-9943
+J9 TRANSPORTMETRICA A
+JI Transportmetrica A
+PD MAY 27
+PY 2023
+VL 19
+IS 3
+DI 10.1080/23249935.2022.2079755
+EA MAY 2022
+PG 25
+WC Transportation; Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Transportation
+GA K5DH5
+UT WOS:000804153300001
+DA 2024-07-26
+ER
+
+PT J
+AU Ishii, Y
+   Hayakawa, K
+   Koide, S
+   Chikaraishi, M
+AF Ishii, Yoshinao
+   Hayakawa, Keiichiro
+   Koide, Satoshi
+   Chikaraishi, Makoto
+TI Entropy Tucker model: Mining latent mobility patterns with simultaneous
+   estimation of travel impedance parameters
+SO TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES
+LA English
+DT Article
+DE Tensor decomposition; Entropy maximizing model; Mobility pattern;
+   Data-driven; Knowledge-driven; Smart card data
+ID NONNEGATIVE TENSOR FACTORIZATION; DESTINATION CHOICE; DECOMPOSITION;
+   MATRIX; ALPHA; URBAN; ALGORITHMS; CITIES
+AB With the rapid increase in the availability of passive data in the field of transportation, combining machine learning with transportation models has emerged as an important research topic in recent years. This study proposes an entropy Tucker model that integrates (1) a Tucker decomposition technique, i.e., an existing machine learning method, and (2) an entropy maximizing model, i.e., an existing model used for modeling trip distribution in the field of transportation. In addition, an optimization algorithm is presented to empirically identify the proposed model. The proposed model provides a solid theoretical foundation for the machine learning method, substantially improves prediction performance, and provides richer behavioral implications through empirical parameter estimation of travel impedance. We conducted a case study using public transit smart card data. The results showed that the proposed model improves the prediction performance and interpretability of the results compared to the conventional nonnegative Tucker decomposition technique. Further, we empirically confirmed that the travel impedance varies with the origin-destination pair, time of the day, and day of the week. Finally, we discussed how embedding the theoretical foundations of transport modeling into machine learning methods can facilitate the use of various passive data in wider practical contexts of transport policy decision making.
+C1 [Ishii, Yoshinao; Hayakawa, Keiichiro; Koide, Satoshi] Toyota Cent Res & Dev Labs Inc, Koraku Mori Bldg 10F, 1-4-14 Koraku, Tokyo 1120004, Japan.
+   [Chikaraishi, Makoto] Hiroshima Univ, 1-5-1 Kagamiyama, Hiroshima, Hiroshima 7398529, Japan.
+C3 Toyota Central R&D Labs Inc; Hiroshima University
+RP Ishii, Y (corresponding author), Toyota Cent Res & Dev Labs Inc, Koraku Mori Bldg 10F, 1-4-14 Koraku, Tokyo 1120004, Japan.
+EM Y-Ishii@mosk.tytlabs.co.jp
+RI Chikaraishi, Makoto/J-9296-2015
+OI Ishii, Yoshinao/0000-0003-4364-3551
+FU Committee on Advanced Road Technology under the authority of the
+   Ministry of Land, Infrastructure, Transport, and Tourism of Japan
+FX A part of this study was conducted under the research project Short-term
+   travel demand prediction and comprehensive transport demand management,
+   supported by the Committee on Advanced Road Technology under the
+   authority of the Ministry of Land, Infrastructure, Transport, and
+   Tourism of Japan.
+NR 69
+TC 3
+Z9 3
+U1 2
+U2 20
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0968-090X
+EI 1879-2359
+J9 TRANSPORT RES C-EMER
+JI Transp. Res. Pt. C-Emerg. Technol.
+PD APR
+PY 2022
+VL 137
+AR 103559
+DI 10.1016/j.trc.2022.103559
+EA FEB 2022
+PG 24
+WC Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Transportation
+GA 0F4NC
+UT WOS:000777337100010
+OA hybrid
+DA 2024-07-26
+ER
+
+PT J
+AU Wei, M
+AF Wei, Ming
+TI How does the weather affect public transit ridership? A model with
+   weather-passenger variations
+SO JOURNAL OF TRANSPORT GEOGRAPHY
+LA English
+DT Article
+DE Transit smart card data; Local weather condition; Spatial heterogeneity;
+   Geographically weighted negative binomial regression
+ID TRAVEL BEHAVIOR; IMPACTS; VARIABILITY; ASSOCIATION; PATTERNS; DEMAND
+AB Drawing on transit smart card data and weather station records over a 12-month period, this study investigates the influence of local weather conditions on public transit ridership in Brisbane, Australia. Based on the statistical distribution of transit ridership, this study applies a suite of geographically weighted negative binomial regression models to capture the weather-transit ridership relationship at both daily and half-hourly levels. The results reveal that weather exerts significant effects on transit ridership; its effects vary by passenger type and are not fixed across locations and temporal periods. In general, senior passengers are the most sensitive group to variations in weather conditions, and their responses are quite similar across the public transit service area. Morning peak hours are the period when passengers have the strongest weather tolerance. Spatial heterogeneity of weather effects mainly occurs in adult, child, and tertiary student passengers, not seniors and secondary student passengers. In contrast to suburban areas, city centres and university campuses are the locales most likely to have distinct weather responses. The results suggest that it is important for transit operators to understand the spatiotemporal dynamics of the weather-transit ridership relationship to proactively (re)design and adjust scheduling to achieve weather-resilient performance.
+C1 [Wei, Ming] Harbin Inst Technol, Sch Transportat Sci & Engn, Harbin 150090, Peoples R China.
+   [Wei, Ming] Univ Queensland, Sch Earth & Environm Sci, St Lucia, Qld 4072, Australia.
+C3 Harbin Institute of Technology; University of Queensland
+RP Wei, M (corresponding author), Harbin Inst Technol, Sch Transportat Sci & Engn, Harbin 150090, Peoples R China.
+EM m.wei@hit.edu.cn
+RI Wei, Ming/HGA-8717-2022
+OI Wei, Ming/0000-0003-1605-8218
+NR 36
+TC 14
+Z9 15
+U1 4
+U2 34
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0966-6923
+EI 1873-1236
+J9 J TRANSP GEOGR
+JI J. Transp. Geogr.
+PD JAN
+PY 2022
+VL 98
+AR 103242
+DI 10.1016/j.jtrangeo.2021.103242
+EA DEC 2021
+PG 12
+WC Economics; Geography; Transportation
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Geography; Transportation
+GA XK5LX
+UT WOS:000727508000001
+DA 2024-07-26
+ER
+
+PT J
+AU Liu, Y
+   Ji, YJ
+   Feng, T
+   Shi, ZB
+AF Liu, Yang
+   Ji, Yanjie
+   Feng, Tao
+   Shi, Zhuangbin
+TI A route analysis of metro-bikeshare users using smart card data
+SO TRAVEL BEHAVIOUR AND SOCIETY
+LA English
+DT Article
+DE Metro-bikeshare integration; Travel route; Spatiotemporal patterns;
+   Smart card data
+ID GPS DATA; CHOICE; BICYCLE; MODE; DETERMINANTS; TRANSIT; FEEDER; USAGE;
+   TRIP
+AB Few studies have analyzed individuals' travel route characteristics in the integrated metro and bikeshare network. Taking Nanjing, China, as a case study, this paper analyzes the combined travel route of metrobikeshare users based on three-week metroand shared bike smart card data. The smart card data provides both boarding/borrowing and alighting/returning location and time, which makes it possible to trace each combined mode user's actual metro routes. By assuming that the bike routes are the shortest paths between a specific OD pair from smart card records, we extract the combined metro-bikeshare travel routes of each user by using a metro route reconstruction method. The results show that over 60% of the metro-bikeshare users, most of whom are youth adults (18-35 years old), only occasionally use this mode. Further, the spatial and temporal characteristics of the combined metro-bikeshare travel routes are analyzed visually across different age groups. We find that most of the combined metro-bikeshare routes concentrated on Metro Line 2 with different cycling access/egress routes; however, the routes mostly travelled by different age groups are significantly different. Young adults are mainly distributed in suburban and exurban areas. Adults are more likely to be metro-bikeshare commuters, with travel routes usually passing through the central area of the city. Besides, the routes mostly travelled by the elderly are longer than those by other groups, and highly coincide with the routes mostly travelled by adults during the rush hours. Finally, relevant policy implementations are proposed in conjunction with metro-bikeshare users' travel route characteristics.
+C1 [Liu, Yang; Shi, Zhuangbin] Kunming Univ Sci & Technol, Fac Transportat Engn, Jingming South Rd 727, Kunming 650500, Yunnan, Peoples R China.
+   [Ji, Yanjie] Southeast Univ, Sch Transportat, Jiangsu Key Lab Urban ITS, Jiangsu Prov Collaborat Innovat Ctr Modern,Urban, Dongnandaxue Rd 2, Nanjing, Jiangsu, Peoples R China.
+   [Feng, Tao] Hiroshima Univ, Grad Sch Adv Sci & Engn, Higashihiroshima 7398529, Japan.
+C3 Kunming University of Science & Technology; Southeast University -
+   China; Hiroshima University
+RP Ji, YJ (corresponding author), Southeast Univ, Sch Transportat, Jiangsu Key Lab Urban ITS, Jiangsu Prov Collaborat Innovat Ctr Modern,Urban, Dongnandaxue Rd 2, Nanjing, Jiangsu, Peoples R China.
+EM kmliuyang@outlook.com; jiyanjie@seu.edu.cn; taofeng@hiroshima-u.ac.jp;
+   shizhuangbin@outlook.com
+RI li, yang/IQV-3559-2023; Feng, Tao/ABD-7177-2020
+OI Feng, Tao/0000-0002-5759-3164; Liu, Yang/0000-0001-7863-9371
+FU National Key R&D Program of China [2018YFB1600900]; National Natural
+   Science Foundationof China [5210120472]; Fundamental Research Funds for
+   the Central Universities [2242020K40063]; China Scholar-ship Council
+   (CSC) [201806090205]
+FX This research is funded by the National Key R&D Program of China (Grant
+   No. 2018YFB1600900) , the National Natural Science Foundationof China
+   (Grant No. 5210120472) , the Fundamental Research Funds for the Central
+   Universities (No. 2242020K40063) and the China Scholar-ship Council
+   (CSC) (Grant No. 201806090205) . We are grateful for the comments and
+   suggestions from the editor and the anonymous re-viewers who helped
+   improve the paper.
+NR 28
+TC 13
+Z9 13
+U1 5
+U2 50
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 2214-367X
+EI 2214-3688
+J9 TRAVEL BEHAV SOC
+JI Travel Behav. Soc.
+PD JAN
+PY 2022
+VL 26
+BP 108
+EP 120
+DI 10.1016/j.tbs.2021.09.006
+EA OCT 2021
+PG 13
+WC Transportation
+WE Social Science Citation Index (SSCI)
+SC Transportation
+GA WW8KX
+UT WOS:000718159400002
+DA 2024-07-26
+ER
+
+PT J
+AU Zuo, YF
+   Fu, X
+   Liu, ZY
+   Huang, D
+AF Zuo, Yufan
+   Fu, Xiao
+   Liu, Zhiyuan
+   Huang, Di
+TI Short-term forecasts on individual accessibility in bus system based on
+   neural network model
+SO JOURNAL OF TRANSPORT GEOGRAPHY
+LA English
+DT Article
+DE Individual accessibility; Bus system; Neural network model; Smart card
+   records; Points of interest
+ID RAPID-TRANSIT; EQUITY; TRAVEL; QUALITY; TIME
+AB Precise forecasts on individual accessibility in bus system can help make policies to accommodate fluctuating bus travel demand and promoting social equity. In this study, we propose a three-stage method for short-term forecasts on individual accessibility in bus system based on neural network (NN) model. In the first stage, a NN model is designed to tackle the nonlinear mapping between passengers' bus trip appearances in historical periods and those in the predicted period. A rate function, which considers bus trip generation rates of passengers, is then applied using outputs of the designed NN model. In the second stage, probabilities of origindestinations (ODs) chosen by passengers in the predicted period are calculated. In the third stage, land use information combined with results of previous two stages are used to obtain the individual accessibility in bus system in the predicted period. Compared to individual accessibility calculated by real data, it is found that the average errors of predicted results by the proposed method in weekdays and at weekends are only 8.37% and 10.13%, respectively. The results also demonstrate the capability of combining a NN model, traffic data and land use information to forecast the future spatial distribution of individual accessibility in transport system.
+C1 [Zuo, Yufan; Fu, Xiao; Liu, Zhiyuan] Southeast Univ, Jiangsu Prov Collaborat Innovat Ctr Modern Urban, Sch Transportat, Jiangsu Key Lab Urban ITS, Nanjing 211189, Peoples R China.
+   [Huang, Di] Hong Kong Polytech Univ, Dept Logist & Maritime Studies, Hong Kong, Peoples R China.
+C3 Southeast University - China; Hong Kong Polytechnic University
+RP Fu, X (corresponding author), Southeast Univ, Jiangsu Prov Collaborat Innovat Ctr Modern Urban, Sch Transportat, Jiangsu Key Lab Urban ITS, Nanjing 211189, Peoples R China.
+EM fuxiao@seu.edu.cn
+RI Huang, Di/JBJ-3541-2023; Fu, Xiao/AAR-3856-2021
+OI Huang, Di/0000-0001-7877-7301; Fu, Xiao/0000-0003-0446-0971
+FU National Natural Science Foundation of China [71601045]; MOE (Ministry
+   of Education in China) Project of Humanities, Social Sciences
+   [20YJAZH083]; "Zhishan" Scholars Programs of Southeast University
+FX This research was supported by the National Natural Science Foundation
+   of China (No. 71601045), the MOE (Ministry of Education in China)
+   Project of Humanities, Social Sciences (No. 20YJAZH083) and "Zhishan"
+   Scholars Programs of Southeast University.
+NR 48
+TC 15
+Z9 15
+U1 6
+U2 56
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0966-6923
+EI 1873-1236
+J9 J TRANSP GEOGR
+JI J. Transp. Geogr.
+PD MAY
+PY 2021
+VL 93
+AR 103075
+DI 10.1016/j.jtrangeo.2021.103075
+EA MAY 2021
+PG 9
+WC Economics; Geography; Transportation
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Geography; Transportation
+GA SO7RV
+UT WOS:000659173600005
+DA 2024-07-26
+ER
+
+PT J
+AU Santin, P
+   Gubert, FR
+   Fonseca, M
+   Munaretto, A
+   Silva, TH
+AF Santin, Priscila
+   Gubert, Fernanda R.
+   Fonseca, Mauro
+   Munaretto, Anelise
+   Silva, Thiago Henrique
+TI Characterization of Public Transit Mobility Patterns of Different
+   Economic Classes
+SO SUSTAINABILITY
+LA English
+DT Article
+DE mobility; characterization; transit; economic stratification; networks
+ID URBAN MOBILITY; NETWORKS
+AB This paper analyzes public transit mobility of different economic classes of Curitiba, Brazil, exploring an official smart card dataset provided by the city. With the population divided into subsets corresponding to economic strata, we characterized vital spatial-temporal transit usage patterns, such as departure times and destinations reached by different economic classes. We also constructed a network representing the common origin and destination of public transit users, enabling discovering distinct patterns. Among the results, we observe that with the increase in wealth, the morning activity is postponed (on average for 2 h), and the spatial distribution of the trips becomes more localized compared with lower classes. We also show that our model captures fairly well realistic mobility patterns exploring a cheaper and larger-scale data source by comparing our results with a household travel survey from Curitiba. Understand how people in different economic classes appropriate urban spaces help to provide subsidies for, e.g., more sustainable economic development propositions.
+C1 [Santin, Priscila; Gubert, Fernanda R.; Fonseca, Mauro; Munaretto, Anelise; Silva, Thiago Henrique] Univ Tecnol Fed Parana, Programa Posgrad Engn Eletr & Informat Ind, BR-80230901 Curitiba, PR, Brazil.
+   [Silva, Thiago Henrique] Univ Toronto, Sch Cities, Toronto, ON M5S 0C9, Canada.
+C3 Universidade Tecnologica Federal do Parana; University of Toronto
+RP Munaretto, A (corresponding author), Univ Tecnol Fed Parana, Programa Posgrad Engn Eletr & Informat Ind, BR-80230901 Curitiba, PR, Brazil.
+EM santin.priscila@gmail.com; nanda.gubert@gmail.com;
+   MauroFonseca@utfpr.edu.br; anelise@utfpr.edu.br; th.silva@utoronto.ca
+RI FONSECA, MAURO SERGIO PEREIRA/D-1382-2012; Silva, Thiago
+   H/AFE-1930-2022; Munaretto, Anelise/K-6123-2015
+OI FONSECA, MAURO SERGIO PEREIRA/0000-0003-1604-0915; Silva, Thiago
+   H/0000-0001-6994-8076; Munaretto, Anelise/0000-0002-0182-7128; Gubert,
+   Fernanda/0000-0003-3315-8026; Leyser Santin, Priscila
+   Louise/0000-0001-5457-0365
+FU Coordenacao de Aperfeicoamento de Pessoal de Nivel Superior-Brasil
+   (CAPES) [001]; project URBCOMP from CNPq agency [403260/2016-7]; GoodWeb
+   from Sao Paulo Research Foundation-FAPESP [2018/23011-1]
+FX This study was financed in part by the Coordenacao de Aperfeicoamento de
+   Pessoal de Nivel Superior-Brasil (CAPES)-Finance Code 001. This work is
+   also partially supported by the project URBCOMP (Grant #403260/2016-7
+   from CNPq agency) and GoodWeb (Grant #2018/23011-1 from Sao Paulo
+   Research Foundation-FAPESP). The authors would like to thank also the
+   research agencies CAPES, CNPq and Fundacao Araucaria.
+NR 34
+TC 2
+Z9 2
+U1 2
+U2 7
+PU MDPI
+PI BASEL
+PA ST ALBAN-ANLAGE 66, CH-4052 BASEL, SWITZERLAND
+EI 2071-1050
+J9 SUSTAINABILITY-BASEL
+JI Sustainability
+PD NOV
+PY 2020
+VL 12
+IS 22
+AR 9603
+DI 10.3390/su12229603
+PG 24
+WC Green & Sustainable Science & Technology; Environmental Sciences;
+   Environmental Studies
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Science & Technology - Other Topics; Environmental Sciences & Ecology
+GA OY9MY
+UT WOS:000594564000001
+OA Green Submitted, gold
+DA 2024-07-26
+ER
+
+PT J
+AU Zhong, JM
+   He, ZC
+   Tian, CY
+AF Zhong, Jiaming
+   He, Zhaocheng
+   Tian, Chenyu
+TI Uncovering quasi-periodicity of transit behavior based on smart card
+   data
+SO JOURNAL OF TRANSPORT GEOGRAPHY
+LA English
+DT Article
+ID PATTERNS
+C1 [Zhong, Jiaming; He, Zhaocheng] Sun Yat Sen Univ, Res Ctr Intelligent Transportat Syst, Guangdong Prov Key Lab Intelligent Transportat Sy, Guangzhou 510006, Guangdong, Peoples R China.
+   [Tian, Chenyu] Tsinghua Univ, Tsinghua Berkeley Shenzhen Inst, Shenzhen 518055, Peoples R China.
+C3 Sun Yat Sen University; Tsinghua University; Tsinghua Shenzhen
+   International Graduate School
+RP He, ZC (corresponding author), Sun Yat Sen Univ, Res Ctr Intelligent Transportat Syst, Guangdong Prov Key Lab Intelligent Transportat Sy, Guangzhou 510006, Guangdong, Peoples R China.
+EM zhongjm6@mail2.sysu.edu.cn; hezhch@mail.sysu.edu.cn;
+   tiancy19@mails.tsinghua.edu.cn
+RI PENG, CHENG/KCL-2506-2024; Tian, Chenyu/ABC-6606-2020
+OI Tian, Chenyu/0000-0002-7748-5873; ZHONG, JIAMING/0000-0001-8479-7368
+FU Science and Technology Planning Project of Guangdong Province, China
+   [2017B030307001]
+FX The authors would like to thank Communications Commission of Guangzhou
+   Municipality and Guangzhou Communication Information Construction
+   Investment and Operation Co,Ltd. for providing the data support that
+   made this research possible. This work is partially supported by Science
+   and Technology Planning Project of Guangdong Province, China (Grant No.
+   2017B030307001).
+NR 31
+TC 1
+Z9 3
+U1 2
+U2 16
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0966-6923
+EI 1873-1236
+J9 J TRANSP GEOGR
+JI J. Transp. Geogr.
+PD JUL
+PY 2019
+VL 79
+AR 102466
+DI 10.1016/j.jtrangeo.2019.102466
+PG 11
+WC Economics; Geography; Transportation
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Geography; Transportation
+GA JB2WU
+UT WOS:000488420200006
+DA 2024-07-26
+ER
+
+PT J
+AU Viallard, A
+   Trépanier, M
+   Morency, C
+AF Viallard, Alexis
+   Trepanier, Martin
+   Morency, Catherine
+TI Assessing the Evolution of Transit User Behavior from Smart Card Data
+SO TRANSPORTATION RESEARCH RECORD
+LA English
+DT Article
+ID PASSENGER FLOW; TRANSPORT
+AB There is a huge potential for exploiting information centered on individual transit users' behavior through longitudinal smart card data. This is particularly true for cities like Gatineau, Canada, where the bus system serves passengers with different travel patterns. Understanding the evolution of these patterns marks an important point in improving transit demand forecasting models. Indeed, better models can help transit planners to create optimized networks. This paper proposes a comparison of a traditional and an experimental methodology aiming to identify the evolution of travel structure among transit users. These methodologies are based on the clustering of multi-week travel patterns derived from a large sample of smart card transactions (35.4 million). Representing users' behavior, these patterns are constructed using the number of trips made by every card on each day of a week. Behavior vectors are defined by seven components (one for each day) and are clustered using a K-means algorithm. The experimental week-to-week method consists in clustering the population on each week, while using the clustering results from the previous week as seed. This latter approach makes it possible to observe the evolution of users' behaviors and also has a better clustering quality in a similar computation time than the traditional method.
+C1 [Viallard, Alexis; Trepanier, Martin] Polytech Montreal, Dept Math & Ind Engn, Mobilite Chair Sustainabil, CIRRELT, Montreal, PQ, Canada.
+   [Morency, Catherine] Polytech Montreal, CIRRELT, Mobilite Chair Sustainabil, Dept Civil Geol & Min Engn, Montreal, PQ, Canada.
+C3 Universite de Montreal; Polytechnique Montreal; Universite de Montreal;
+   Polytechnique Montreal
+RP Viallard, A (corresponding author), Polytech Montreal, Dept Math & Ind Engn, Mobilite Chair Sustainabil, CIRRELT, Montreal, PQ, Canada.
+EM alexis.viallard@polymtl.ca
+RI Morency, Catherine/ABB-5448-2021; Trépanier, Martin/KAM-4605-2024
+OI Morency, Catherine/0000-0002-3211-4243; Trépanier,
+   Martin/0000-0001-8408-8035
+FU Natural Sciences and Engineering Research Council of Canada (NSERC);
+   Mitacs [FR27498]; Societe nationale des chemins de fer francxais (SNCF)
+FX This work was possible thanks to the collaboration of STO. Funding is
+   provided by the Natural Sciences and Engineering Research Council of
+   Canada (NSERC), Mitacs (grant #FR27498), the Societe nationale des
+   chemins de fer francxais (SNCF) and Keolis.
+NR 30
+TC 10
+Z9 16
+U1 0
+U2 18
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0361-1981
+EI 2169-4052
+J9 TRANSPORT RES REC
+JI Transp. Res. Record
+PD APR
+PY 2019
+VL 2673
+IS 4
+BP 184
+EP 194
+DI 10.1177/0361198119834561
+PG 11
+WC Engineering, Civil; Transportation; Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Engineering; Transportation
+GA IF2NO
+UT WOS:000472914200017
+DA 2024-07-26
+ER
+
+PT J
+AU Zhou, JP
+   Sipe, N
+   Ma, ZL
+   Mateo-Babiano, D
+   Darchen, S
+AF Zhou, Jiangping
+   Sipe, Neil
+   Ma, Zhenliang
+   Mateo-Babiano, Derlie
+   Darchen, Sebastien
+TI Monitoring transit-served areas with smartcard data: A Brisbane case
+   study
+SO JOURNAL OF TRANSPORT GEOGRAPHY
+LA English
+DT Article
+ID CARD DATA; EXCESS; CHOICES; VARIABILITY; LOCATION; PATTERNS; BALANCE;
+   MODEL
+AB A city can be divided into areas that are served by transit and those that are not. In this study, the former is referred to as "transit-served areas (TSAs)". To quantify, monitor and visualise the TSAs of the Southeast Queensland (SEQ), this study analyses half-year smartcard data between 2012 and 2013 from TransLink, the transit agency for SEQ. Four scenarios are prescribed and four corresponding metrics (the minimum, actual, random and maximum travels) are calculated, which reflect transit riders' different levels of elasticity of distance travelled (EDT) relative to the cost of travel within or between TSAs and how transit riders could possibly travel as EDT varies. The total trips generated by or attracted to TSA and the temporal and spatial variations of these metrics across days are used to monitor TSAs, especially transit trips within or between them. The results indicate that transit trips attracted to, and generated by TSA and transit trips between TSAs vary significantly over time and across space. Across the scenarios, the temporal variance tends to be larger as EDT becomes more inelastic. The above results provide useful references for decision-makers to understand better the ranges of transit demand (by TSA) across the space and time when EDT is a variable.
+C1 [Zhou, Jiangping] Univ Hong Kong, Fac Architecture, Hong Kong, Peoples R China.
+   [Sipe, Neil; Darchen, Sebastien] Univ Queensland, Sch Earth & Environm Sci, Brisbane, Qld 4072, Australia.
+   [Ma, Zhenliang] Northeastern Univ, Dept Civil & Environm Engn, Boston, MA 02115 USA.
+   [Mateo-Babiano, Derlie] Univ Melbourne, Melbourne Sch Design, Parkville, Vic 3052, Australia.
+C3 University of Hong Kong; University of Queensland; Northeastern
+   University; University of Melbourne
+RP Zhou, JP (corresponding author), Univ Hong Kong, Fac Architecture, Hong Kong, Peoples R China.
+EM zhoujp@hku.hk; n.sipe@uq.edu.au; z.ma@northeastern.edu;
+   iderlina.mateo@unimelb.edu.au; s.darchen@uq.edu.au
+RI Zhou, Jiangping/AAA-9772-2020; Ma, Zhenliang/AAE-4122-2020; Darchen,
+   Sebastien/K-7451-2016; Mateo-Babiano, Iderlina/B-1027-2012
+OI Zhou, Jiangping/0000-0002-1623-5002; Ma, Zhenliang/0000-0002-2141-0389;
+   Darchen, Sebastien/0000-0002-3043-4446; Mateo-Babiano,
+   Iderlina/0000-0001-9097-2126
+NR 47
+TC 12
+Z9 12
+U1 2
+U2 13
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0966-6923
+EI 1873-1236
+J9 J TRANSP GEOGR
+JI J. Transp. Geogr.
+PD APR
+PY 2019
+VL 76
+BP 265
+EP 275
+DI 10.1016/j.jtrangeo.2017.07.005
+PG 11
+WC Economics; Geography; Transportation
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Geography; Transportation
+GA IC4QN
+UT WOS:000470950500025
+OA Green Submitted
+DA 2024-07-26
+ER
+
+PT J
+AU Zhou, JP
+   Murphy, E
+AF Zhou, Jiangping
+   Murphy, Enda
+TI Day-to-day variation in excess commuting: An exploratory study of
+   Brisbane, Australia
+SO JOURNAL OF TRANSPORT GEOGRAPHY
+LA English
+DT Article
+DE Excess commuting; Indicator; Variation; Big data; Temporal; Brisbane
+ID JOBS-HOUSING BALANCE; EFFICIENCY; IMPACTS; WORKERS
+AB Commuting patterns where most if not all 'trips are optimised relative to a given distribution of jobs and housing can result in personal and socio-economic benefits. Excess commuting indicators provide useful information for academics and policy analysts to evaluate how the actual commuting pattern deviates from an optimal pattern where commuting costs are minimised. While actual commuting patterns vary from day-to-day, academic researchers have yet to quantify the temporal variation in these indicators over short time periods. This may be due to the lack of available longitudinal data as input for excess commuting indicators. This study shows that new, open and/or big data (NOBD) (e.g. smartcard data) can be exploited to serve as the input for such analysis. In this regard, our study uses half a year's worth of smartcard data from Brisbane, Australia to first derive/aggregate origins and destinations by small areas of the probable commuting trips by transit on all 122 weekdays over the study period. The study quantifies the day-to-day variation in excess commuting indicators for these trips and finds that excess commuting indicators vary considerably from one day to the next. Nevertheless, daily variations occur within a relatively consistent range which can be planned for. Our research suggests that more conscious and systematic utilisation of NOBD could change how commuting flows in cities are quantified, monitored and planned. In addition, with NOBD, we can more efficiently detect daily outliers in commuting patterns.
+C1 [Zhou, Jiangping] Univ Hong Kong, Dept Urban Planning & Design, Fac Architecture, Hong Kong, Peoples R China.
+   [Murphy, Enda] Univ Coll Dublin, Sch Architecture Planning & Environm Policy, Dublin, Ireland.
+C3 University of Hong Kong; University College Dublin
+RP Zhou, JP (corresponding author), Univ Hong Kong, Dept Urban Planning & Design, Fac Architecture, Hong Kong, Peoples R China.
+EM zhoujp@hku.hk; enda.murphy@ucd.ie
+RI Zhou, Jiangping/AAA-9772-2020
+OI Zhou, Jiangping/0000-0002-1623-5002
+NR 42
+TC 18
+Z9 26
+U1 2
+U2 43
+PU ELSEVIER SCI LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, OXON, ENGLAND
+SN 0966-6923
+EI 1873-1236
+J9 J TRANSP GEOGR
+JI J. Transp. Geogr.
+PD JAN
+PY 2019
+VL 74
+BP 223
+EP 232
+DI 10.1016/j.jtrangeo.2018.11.014
+PG 10
+WC Economics; Geography; Transportation
+WE Social Science Citation Index (SSCI)
+SC Business & Economics; Geography; Transportation
+GA HM5MM
+UT WOS:000459519800020
+DA 2024-07-26
+ER
+
+PT J
+AU Ling, XM
+   Huang, ZR
+   Wang, CC
+   Zhang, F
+   Wang, P
+AF Ling, Ximan
+   Huang, Zhiren
+   Wang, Chengcheng
+   Zhang, Fan
+   Wang, Pu
+TI Predicting subway passenger flows under different traffic conditions
+SO PLOS ONE
+LA English
+DT Article
+ID EMPIRICAL MODE DECOMPOSITION; TRAVEL-TIME PREDICTION; NEURAL-NETWORK
+   MODEL; SERIES; DYNAMICS; VOLUME
+AB Passenger flow prediction is important for the operation, management, efficiency, and reliability of urban rail transit (subway) system. Here, we employ the large-scale subway smart-card data of Shenzhen, a major city of China, to predict dynamical passenger flows in the subway network. Four classical predictive models: historical average model, multilayer perceptron neural network model, support vector regression model, and gradient boosted regression trees model, were analyzed. Ordinary and anomalous traffic conditions were identified for each subway station by using the density-based spatial clustering of applications with noise (DBSCAN) algorithm. The prediction accuracy of each predictive model was analyzed under ordinary and anomalous traffic conditions to explore the high-performance condition (ordinary traffic condition or anomalous traffic condition) of different predictive models. In addition, we studied how long in advance that passenger flows can be accurately predicted by each predictive model. Our finding highlights the importance of selecting proper models to improve the accuracy of passenger flow prediction, and that inherent patterns of passenger flows are more prominently influencing the accuracy of prediction.
+C1 [Ling, Ximan; Huang, Zhiren; Wang, Chengcheng; Wang, Pu] Cent S Univ, Sch Traff & Transportat Engn, Changsha, Hunan, Peoples R China.
+   [Zhang, Fan] Chinese Acad Sci, Shenzhen Inst Adv Technol, Shenzhen, Guangdong, Peoples R China.
+C3 Central South University; Chinese Academy of Sciences; Shenzhen
+   Institute of Advanced Technology, CAS
+RP Wang, P (corresponding author), Cent S Univ, Sch Traff & Transportat Engn, Changsha, Hunan, Peoples R China.
+EM wangpu@csu.edu.cn
+RI Huang, Zhiren/O-7081-2019
+OI Huang, Zhiren/0000-0002-7868-1630
+FU National Natural Science Foundation of China [61473320]; National Key
+   Research and Development Program of China [2016YFB1200401]
+FX This work was supported by the National Natural Science Foundation of
+   China (http://www.nsfc.gov.cn) no. 61473320, and by the National Key
+   Research and Development Program of China (http://program.most.gov.cn)
+   no. 2016YFB1200401. These fundings were received by PW. The funders had
+   no role in study design, data collection and analysis, decision to
+   publish, or preparation of the manuscript.
+NR 54
+TC 15
+Z9 17
+U1 4
+U2 61
+PU PUBLIC LIBRARY SCIENCE
+PI SAN FRANCISCO
+PA 1160 BATTERY STREET, STE 100, SAN FRANCISCO, CA 94111 USA
+SN 1932-6203
+J9 PLOS ONE
+JI PLoS One
+PD AUG 27
+PY 2018
+VL 13
+IS 8
+AR e0202707
+DI 10.1371/journal.pone.0202707
+PG 23
+WC Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Science & Technology - Other Topics
+GA GR6UK
+UT WOS:000442804200020
+PM 30148888
+OA gold, Green Published, Green Submitted
+DA 2024-07-26
+ER
+
+PT J
+AU Zhao, Z
+   Koutsopoulos, HN
+   Zhao, JH
+AF Zhao, Zhan
+   Koutsopoulos, Hans N.
+   Zhao, Jinhua
+TI Individual mobility prediction using transit smart card data
+SO TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES
+LA English
+DT Article
+DE Individual mobility; Next trip prediction; Smart card data; Bayesian
+   n-gram model
+AB For intelligent urban transportation systems, the ability to predict individual mobility is crucial for personalized traveler information, targeted demand management, and dynamic system operations. Whereas existing methods focus on predicting the next location of users, little is known regarding the prediction of the next trip. The paper develops a methodology for predicting daily individual mobility represented as a chain of trips (including the null set, no travel), each defined as a combination of the trip start time t, origin o, and destination d. To predict individual mobility, we first predict whether the user will travel (trip making prediction), and then, if so, predict the attributes of the next trip (t,o,d) (trip attribute prediction). Each of the two problems can be further decomposed into two subproblems based on the triggering event. For trip attribute prediction, we propose a new model, based on the Bayesian n-gram model used in language modeling, to estimate the probability distribution of the next trip conditional on the previous one. The proposed methodology is tested using the pseudonymized transit smart card records from more than 10,000 users in London, U.K. over two years. Based on regularized logistic regression, our trip making prediction models achieve median accuracy levels of over 80%. The prediction accuracy for trip attributes varies by the attribute considered-around 40% for t, 70-80% for o and 60-70% for d. Relatively, the first trip of the day is more difficult to predict. Significant variations are found across individuals in terms of the model performance, implying diverse travel behavior patterns.
+C1 [Zhao, Zhan] MIT, Dept Civil & Environm Engn, Cambridge, MA 02139 USA.
+   [Koutsopoulos, Hans N.] Northeastern Univ, Dept Civil & Environm Engn, Boston, MA 02115 USA.
+   [Zhao, Jinhua] MIT, Dept Urban Studies & Planning, Cambridge, MA 02139 USA.
+C3 Massachusetts Institute of Technology (MIT); Northeastern University;
+   Massachusetts Institute of Technology (MIT)
+RP Zhao, JH (corresponding author), MIT, Dept Urban Studies & Planning, Cambridge, MA 02139 USA.
+EM jinhua@mit.edu
+RI Zhao, Zhan/AFH-6852-2022; Zhao, Jinhua/GYV-4433-2022
+OI Zhao, Zhan/0000-0001-5170-9608; Zhao, Jinhua/0000-0002-1929-7583
+FU Transport for London
+FX The authors would like to thank Transport for London for providing the
+   financial and data support that made this research possible.
+NR 37
+TC 77
+Z9 83
+U1 1
+U2 70
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0968-090X
+J9 TRANSPORT RES C-EMER
+JI Transp. Res. Pt. C-Emerg. Technol.
+PD APR
+PY 2018
+VL 89
+BP 19
+EP 34
+DI 10.1016/j.trc.2018.01.022
+PG 16
+WC Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Transportation
+GA GB9JN
+UT WOS:000429390200002
+DA 2024-07-26
+ER
+
+PT J
+AU Lu, K
+   Khani, A
+   Han, BM
+AF Lu, Kai
+   Khani, Alireza
+   Han, Baoming
+TI A Trip Purpose-Based Data-Driven Alighting Station Choice Model Using
+   Transit Smart Card Data
+SO COMPLEXITY
+LA English
+DT Article
+ID ORIGIN-DESTINATION MATRIX; DATA-COLLECTION SYSTEMS
+AB Automatic fare collection (AFC) systems have been widely used all around the world which record rich data resources for researchers mining the passenger behavior and operation estimation. However, most transit systems are open systems for which only boarding information is recorded but the alighting information is missing. Because of the lack of trip information, validation of utility functions for passenger choices is difficult. To fill the research gaps, this study uses the AFC data from Beijing metro, which is a closed system and records both boarding information and alighting information. To estimate a more reasonable utility function for choice modeling, the study uses the trip chaining method to infer the actual destination of the trip. Based on the land use and passenger flow pattern, applying k-means clustering method, stations are classified into 7 categories. A trip purpose labelling process was proposed considering the station category, trip time, trip sequence, and alighting station frequency during five weekdays. We apply multinomial logit models as well as mixed logit models with independent and correlated normally distributed random coefficients to infer passengers' preferences for ticket fare, walking time, and in-vehicle time towards their alighting station choice based on different trip purposes. The results find that time is a combined key factor while the ticket price based on distance is not significant. The estimated alighting stations are validated with real choices from a separate sample to illustrate the accuracy of the station choice models.
+C1 [Lu, Kai; Han, Baoming] Beijing Jiaotong Univ, Sch Traff & Transportat, Beijing 100044, Peoples R China.
+   [Khani, Alireza] Univ Minnesota, Dept Civil Environm & Geoengn, Minneapolis, MN 55455 USA.
+C3 Beijing Jiaotong University; University of Minnesota System; University
+   of Minnesota Twin Cities
+RP Lu, K; Han, BM (corresponding author), Beijing Jiaotong Univ, Sch Traff & Transportat, Beijing 100044, Peoples R China.
+EM lukai_bjtu@163.com; bmhan@bjtu.edu.cn
+RI Khani, Alireza/B-6167-2017; Lu, Kai/HGC-6808-2022
+OI LU, Kai/0000-0002-9140-0549
+FU Foundation of China Scholarship Council; National Natural Science
+   Foundation Project of P.R. China [U1434207]; Beijing Municipal Natural
+   Science Foundation [8162033]
+FX This work was supported by the Foundation of China Scholarship Council,
+   the National Natural Science Foundation Project of P.R. China under
+   Grant no. U1434207, and the Beijing Municipal Natural Science Foundation
+   under Reference no. 8162033. The authors thank the coworkers in CEGE
+   transit lab at University of Minnesota for their constructive
+   suggestions and comments that have led to a significant improvement in
+   this paper.
+NR 34
+TC 5
+Z9 5
+U1 1
+U2 29
+PU WILEY-HINDAWI
+PI LONDON
+PA ADAM HOUSE, 3RD FL, 1 FITZROY SQ, LONDON, WIT 5HE, ENGLAND
+SN 1076-2787
+EI 1099-0526
+J9 COMPLEXITY
+JI Complexity
+PY 2018
+AR 3412070
+DI 10.1155/2018/3412070
+PG 14
+WC Mathematics, Interdisciplinary Applications; Multidisciplinary Sciences
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Mathematics; Science & Technology - Other Topics
+GA GT0TB
+UT WOS:000444159600001
+OA Green Submitted, gold, Green Published
+DA 2024-07-26
+ER
+
+PT J
+AU Bao, J
+   Xu, CC
+   Liu, P
+   Wang, W
+AF Bao, Jie
+   Xu, Chengcheng
+   Liu, Pan
+   Wang, Wei
+TI Exploring Bikesharing Travel Patterns and Trip Purposes Using Smart Card
+   Data and Online Point of Interests
+SO NETWORKS & SPATIAL ECONOMICS
+LA English
+DT Article
+DE Bikesharing; Travel pattern; Trip purpose; Point of interest; Latent
+   Dirichlet allocation
+ID DEMAND; MODELS; IMPACT
+AB The primary objective of this study was to investigate the bikesharing travel patterns and trip purposes by combining smart card data and online point of interests (POIs). A large-scale smart card trip data was collected from the bikesharing system in New York City. The POIs surrounding each station were obtained from Google Places API. K-means clustering analysis was first applied to divide bikesharing stations into five types based on their surrounding POIs. The Latent Dirichlet Allocation (LDA) analysis was then conducted to discover the hidden bikesharing travel patterns and trip purposes using the identified station types and smart card data. The performance of the LDA models with and without POI data was compared to identify whether the POI data should be used. Finally, a practical application of the proposed methods in bikesharing planning and operation was discussed. The result of comparative analyses verified the importance of POI data in exploring bikesharing travel patterns and trip purposes. The results of LDA model showed that the most prevalent travel purpose in New York City is taking public bike for eating, followed by shopping and transferring to other public transit systems. In addition, the result also suggested that people living around the bikesharing stations are more likely to transfer to other commuting tools on the morning peak and ride for home after work. The proposed methods can be used to provide useful guidance and suggestions for transportation agency to develop strategies and regulation that aim at improving the operations of bikesharing systems.
+C1 [Bao, Jie; Xu, Chengcheng; Liu, Pan; Wang, Wei] Southeast Univ, Jiangsu Key Lab Urban ITS, Si Pai Lou 2, Nanjing 210096, Jiangsu, Peoples R China.
+   [Bao, Jie; Xu, Chengcheng; Liu, Pan; Wang, Wei] Southeast Univ, Jiangsu Prov Collaborat Innovat Ctr Modern Urban, Si Pai Lou 2, Nanjing 210096, Jiangsu, Peoples R China.
+C3 Southeast University - China; Southeast University - China
+RP Xu, CC (corresponding author), Southeast Univ, Jiangsu Key Lab Urban ITS, Si Pai Lou 2, Nanjing 210096, Jiangsu, Peoples R China.; Xu, CC (corresponding author), Southeast Univ, Jiangsu Prov Collaborat Innovat Ctr Modern Urban, Si Pai Lou 2, Nanjing 210096, Jiangsu, Peoples R China.
+EM baojie@seu.edu.cn; xuchengcheng@seu.edu.cn; pan_liu@hotmail.com;
+   wangwei@seu.edu.cn
+RI liu, pan/HIR-9103-2022
+OI Xu, Chengcheng/0000-0003-3028-0034
+FU National Natural Science Foundation of China [51508093, 51561135003];
+   Natural Science Foundation of Jiangsu Province [BK20171358]; Fundamental
+   Research Funds for the Central Universities; EPSRC [EP/N010612/1]
+   Funding Source: UKRI
+FX This work was supported by the National Natural Science Foundation of
+   China (Grant No. 51508093), Natural Science Foundation of Jiangsu
+   Province (Grant No. BK20171358), Projects of International Cooperation
+   and Exchange of the National Natural Science Foundation of China (No.
+   51561135003), and Fundamental Research Funds for the Central
+   Universities. The authors would like to thank the editor and the
+   anonymous reviewers for their constructive comments and valuable
+   suggestions to improve the article quality.
+NR 44
+TC 107
+Z9 112
+U1 3
+U2 123
+PU SPRINGER
+PI NEW YORK
+PA ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES
+SN 1566-113X
+EI 1572-9427
+J9 NETW SPAT ECON
+JI Netw Spat. Econ.
+PD DEC
+PY 2017
+VL 17
+IS 4
+BP 1231
+EP 1253
+DI 10.1007/s11067-017-9366-x
+PG 23
+WC Operations Research & Management Science; Transportation Science &
+   Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Operations Research & Management Science; Transportation
+GA FQ9AK
+UT WOS:000418654300008
+DA 2024-07-26
+ER
+
+PT J
+AU Zhang, DS
+   Zhao, JJ
+   Zhang, F
+   Jiang, RB
+   He, T
+   Papanikolopoulos, N
+AF Zhang, Desheng
+   Zhao, Juanjuan
+   Zhang, Fan
+   Jiang, Ruobing
+   He, Tian
+   Papanikolopoulos, Nikos
+TI Last-Mile Transit Service with Urban Infrastructure Data
+SO ACM TRANSACTIONS ON CYBER-PHYSICAL SYSTEMS
+LA English
+DT Article
+DE Algorithms; Design; Experimentation; Performance; Taxicab carpool; graph
+   theory; mobile applications
+AB In this article, we propose a transit service Feeder to tackle the last-mile problem, that is, passengers' destinations lay beyond a walking distance from a public transit station. Feeder utilizes ridesharing-based vehicles (e.g., minibus) to deliver passengers from existing transit stations to selected stops closer to their destinations. We infer real-time passenger demand (e.g., exiting stations and times) for Feeder design by utilizing extreme-scale urban infrastructures, which consist of 10 million cellphones, 27 thousand vehicles, and 17 thousand smartcard readers for 16 million smartcards in a Chinese city, Shenzhen. Regarding these numerous devices as pervasive sensors, we mine both online and offline data for a two-end Feeder service: a back-end Feeder server to calculate service schedules and front-end customized Feeder devices in vehicles for real-time schedule downloading. We implement Feeder using a fleet of vehicles with customized hardware in a subway station of Shenzhen by collecting data for 30 days. The evaluation results show that compared to the ground truth, Feeder reduces last-mile distances by 68% and travel time by 56%, on average.
+C1 [Zhang, Desheng] Univ Minnesota, Minneapolis, MN 55455 USA.
+   [Zhao, Juanjuan; Zhang, Fan] Shenzhen Inst Adv Technol, Shenzhen, Peoples R China.
+   [Jiang, Ruobing] Shanghai Jiao Tong Univ, Dept Comp Sci & Engn, 800 Dongchuan Rd, Shanghai 200240, Peoples R China.
+   [He, Tian; Papanikolopoulos, Nikos] Univ Minnesota, Dept Comp Sci & Engn, 200 Union St SE, Minneapolis, MN 55455 USA.
+   [Zhang, Desheng] Rutgers State Univ, Dept Comp Sci, 110 Frelinghuysen Rd, Piscataway, NJ 08854 USA.
+   [Zhao, Juanjuan; Zhang, Fan] Shenzhen Univ Town, Shenzhen Inst Adv Technol China, 1068 Xueyuan Ave, Shenzhen, Peoples R China.
+C3 University of Minnesota System; University of Minnesota Twin Cities;
+   Chinese Academy of Sciences; Shenzhen Institute of Advanced Technology,
+   CAS; Shanghai Jiao Tong University; University of Minnesota System;
+   University of Minnesota Twin Cities; Rutgers University System; Rutgers
+   University New Brunswick
+RP Zhang, DS (corresponding author), Univ Minnesota, Minneapolis, MN 55455 USA.; Zhang, DS (corresponding author), Rutgers State Univ, Dept Comp Sci, 110 Frelinghuysen Rd, Piscataway, NJ 08854 USA.
+EM dz220@cs.rutgers.edu; jj.zhao@siat.ac.cn; zhangfan@siat.ac.cn;
+   likeice@sjtu.edu.cn; tianhe@cs.umn.edu; npapas@cs.umn.edu
+RI Papanikolopoulos, Nikos/ITW-0029-2023; jiang, ruobing/HNB-9979-2023
+OI Papanikolopoulos, Nikos/0000-0002-2177-1870; jiang,
+   ruobing/0000-0003-1209-078X
+FU US NSF Grants [CNS-1544887, CNS-1446640]; China 973 Program
+   [2015CB352400]
+FX This work was supported in part by the US NSF Grants CNS-1544887 and
+   CNS-1446640 and China 973 Program 2015CB352400. A preliminary work has
+   been presented in ACM IPSN 2015 [Zhang et al. 2015].
+NR 27
+TC 5
+Z9 5
+U1 1
+U2 9
+PU ASSOC COMPUTING MACHINERY
+PI NEW YORK
+PA 1601 Broadway, 10th Floor, NEW YORK, NY USA
+SN 2378-962X
+EI 2378-9638
+J9 ACM TRANS CYBER-PHYS
+JI ACM Trans. Cyber-Phys. Syst.
+PD FEB
+PY 2017
+VL 1
+IS 2
+AR 6
+DI 10.1145/2823326
+PG 26
+WC Computer Science, Interdisciplinary Applications
+WE Emerging Sources Citation Index (ESCI)
+SC Computer Science
+GA FL6BS
+UT WOS:000414330800002
+DA 2024-07-26
+ER
+
+PT J
+AU Zhao, JB
+   Wang, J
+   Deng, W
+AF Zhao, Jinbao
+   Wang, Jian
+   Deng, Wei
+TI Exploring bikesharing travel time and trip chain by gender and day of
+   the week
+SO TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES
+LA English
+DT Article
+DE Big data analytics; Bikesharing; Travel time; Trip chain; Gendered
+   cycling behaviors; Visual analytics
+AB As a pinnacle of green transportation with transit attributes, bikesharing has become particularly popular since the mid-2000s. Taking the opportunity of accessing to a large-scale and smart-card-based dataset from Nanjing, China, this paper explores bikesharing travel time and trip chain patterns by gender and day of the week. Bikesharing trip chain is defined and classified into four types according to the complexity of chain. Z-score analysis and visual analytic techniques, as well as chi-statistic, are adopted to explore the variation of bikesharing travel time and trip chain. The results suggest that the residential areas are the primary fountainhead where bikesharing demands generate, whilst the rail stations are the most attractive hubs that the bikesharing trips terminate at. The travel time between the same bikesharing station can be two times longer than it is from one station to another. Bikesharing travel time also differs significantly in terms of gender and day of the week. With respect to bikesharing trip chain patterns, significant variation is observed between men and women, as well as between weekdays and weekends. Findings indicate that women are more likely to make multiple-circle bikesharing trip chains than men, especially on weekdays. Moreover, the visual analytic gives bikesharing operators direct sense of the variation of bikesharing trip chain patterns with respect to gender and day of the week. Last but not least, this paper finds that there is big gap between bikesharing demand and supply in the adjacent area of rail stations in Nanjing, in particular, during afternoon peak hours. (c) 2015 Elsevier Ltd. All rights reserved.
+C1 [Zhao, Jinbao; Deng, Wei] Southeast Univ, Sch Transportat, Nanjing 210096, Peoples R China.
+   [Zhao, Jinbao] Univ N Carolina, Dept City & Reg Planning, Chapel Hill, NC 27599 USA.
+   [Wang, Jian] Purdue Univ, Lyles Sch Civil Engn, W Lafayette, IN 47907 USA.
+C3 Southeast University - China; University of North Carolina; University
+   of North Carolina Chapel Hill; Purdue University System; Purdue
+   University
+RP Zhao, JB (corresponding author), Southeast Univ, Sch Transportat, Nanjing 210096, Peoples R China.
+EM jinbaozhao@seu.edu.cn; wang2084@purdue.edu; dengwei@seu.edu.cn
+RI Wang, Jian/U-3959-2019
+OI Wang, Jian/0000-0002-0385-3645
+FU Chinese Scholarship Council [201306090063]; Scientific Research
+   Foundation of Graduate School of Southeast University [YBPY1405]
+FX This research is supported by the Chinese Scholarship Council (No.
+   201306090063) and the Scientific Research Foundation of Graduate School
+   of Southeast University (No. YBPY1405). The authors gratefully
+   acknowledge three anonymous reviewers for their useful and constructive
+   comments and suggestions. The Transportation Authority of Jiangning
+   District of Nanjing is gratefully acknowledged for providing the big
+   data used in this study.
+NR 43
+TC 37
+Z9 46
+U1 5
+U2 8
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0968-090X
+EI 1879-2359
+J9 TRANSPORT RES C-EMER
+JI Transp. Res. Pt. C-Emerg. Technol.
+PD SEP
+PY 2015
+VL 58
+SI SI
+BP 251
+EP 264
+DI 10.1016/j.trc.2015.01.030
+PN B
+PG 14
+WC Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED)
+SC Transportation
+GA VM9OG
+UT WOS:001067410000001
+DA 2024-07-26
+ER
+
+PT J
+AU Kusakabe, T
+   Asakura, Y
+AF Kusakabe, Takahiko
+   Asakura, Yasuo
+TI Behavioural data mining of transit smart card data: A data fusion
+   approach
+SO TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES
+LA English
+DT Article
+DE Smart card data; Data fusion; Data mining; Behavioural analysis; Naive
+   Bayes classifier
+ID GLOBAL POSITIONING SYSTEM; TRANSACTION DATA; TRAVEL; VARIABILITY; BIASES
+AB The aim of this study is to develop a data fusion methodology for estimating behavioural attributes of trips using smart card data to observe continuous long-term changes in the attributes of trips. The method is intended to enhance understanding of travellers' behaviour during monitoring the smart card data. In order to supplement absent behavioural attributes in the smart card data, this study developed a data fusion methodology of smart card data with the person trip survey data with the naive Bayes probabilistic model. A model for estimating the trip purpose is derived from the person trip survey data. By using the model, trip purposes are estimated as supplementary behavioural attributes of the trips observed in the smart card data. The validation analysis showed that the proposed method successfully estimated the trip purposes in 86.2% of the validation data. The empirical data mining analysis showed that the proposed methodology can be applied to find and interpret the behavioural features observed in the smart card data which had been difficult to obtain from each independent dataset. (C) 2014 Elsevier Ltd. All rights reserved.
+C1 [Kusakabe, Takahiko; Asakura, Yasuo] Tokyo Inst Technol, Dept Civil Engn, Tokyo, Japan.
+C3 Tokyo Institute of Technology
+RP Kusakabe, T (corresponding author), 2-12-1-M1-20 O Okayama, Tokyo 1528552, Japan.
+EM t.kusakabe@plan.cv.titech.ac.jp
+RI Kusakabe, Takahiko/C-1893-2015
+OI Kusakabe, Takahiko/0000-0003-3019-5243
+FU Grants-in-Aid for Scientific Research [24760408] Funding Source: KAKEN
+NR 31
+TC 180
+Z9 200
+U1 7
+U2 108
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0968-090X
+J9 TRANSPORT RES C-EMER
+JI Transp. Res. Pt. C-Emerg. Technol.
+PD SEP
+PY 2014
+VL 46
+BP 179
+EP 191
+DI 10.1016/j.trc.2014.05.012
+PG 13
+WC Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Transportation
+GA AR2BC
+UT WOS:000343387300011
+DA 2024-07-26
+ER
+
+PT J
+AU Diab, EI
+   EI-Geneidy, AM
+AF Diab, Ehab I.
+   EI-Geneidy, Ahmed M.
+TI Understanding the impacts of a combination of service improvement
+   strategies on bus running time and passenger's perception
+SO TRANSPORTATION RESEARCH PART A-POLICY AND PRACTICE
+LA English
+DT Article
+DE Running time; Limited-stop bus service; Articulated buses; Reserved
+   lane; Smart card fare collection; Transit signal priority (TSP)
+ID LANES; MICROSIMULATION; SYSTEM
+AB Transit agencies implement many strategies in order to provide an attractive transportation service. This article aims to evaluate the impacts of implementing a combination of strategies, designed to improve the bus transit service, on running time and passenger satisfaction. These strategies include using smart card fare collection, introducing limited-stop bus service, implementing reserved bus lanes, using articulated buses, and implementing transit signal priority (TSP). This study uses stop-level data collected from the Societe de transport de Montreal (STM)'s automatic vehicle location (AVL) and automatic passenger count (APC) systems, in Montreal, Canada. The combination of these strategies has lead to a 10.5% decline in running time along the limited stop service compared to the regular service. The regular route running time has increased by 1% on average compared to the initial time period. The study also shows that riders are generally satisfied with the service improvements. They tend to overestimate the savings associated with the implementation of this combination of strategies by 3.5-6.0 min and by 2.5-4.1 min for both the regular route and the limited stop service, respectively. This study helps transit planners and policy makers to better understand the effects of implementing a combination of strategies to improve running time and passenger's perception of these changes in service. (C) 2011 Elsevier Ltd. All rights reserved.
+C1 [Diab, Ehab I.; EI-Geneidy, Ahmed M.] McGill Univ, Sch Urban Planning, Montreal, PQ H3A 2K6, Canada.
+C3 McGill University
+RP EI-Geneidy, AM (corresponding author), McGill Univ, Sch Urban Planning, Suite 400,815 Sherbrooke St W, Montreal, PQ H3A 2K6, Canada.
+EM ehab.diab@mail.mcgill.ca; ahmed.elgeneidy@mcgill.ca
+RI El-Geneidy, Ahmed/N-3904-2013; Diab, Ehab/AAJ-2851-2020
+OI El-Geneidy, Ahmed/0000-0002-0942-4016; Diab, Ehab/0000-0001-9507-5061
+FU Societe de transport de Montreal (STM); Natural Sciences and Engineering
+   Research Council of Canada-collaborative research and development
+   (NSERC-CRD)
+FX We would like to acknowledge the Societe de transport de Montreal (STM)
+   for partially funding this research and for providing the data used in
+   the project. Special thanks to Michel Tremblay, Jocelyn Grondines and
+   Sebastien Gagne for their feedback and support during this project. The
+   authors would like to thank Vincent Chakour and Anais Mathez for their
+   help in proof reading the article. This research was funded in part by
+   Natural Sciences and Engineering Research Council of
+   Canada-collaborative research and development (NSERC-CRD) program.
+NR 37
+TC 51
+Z9 59
+U1 2
+U2 36
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0965-8564
+J9 TRANSPORT RES A-POL
+JI Transp. Res. Pt. A-Policy Pract.
+PD MAR
+PY 2012
+VL 46
+IS 3
+BP 614
+EP 625
+DI 10.1016/j.tra.2011.11.013
+PG 12
+WC Economics; Transportation; Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Business & Economics; Transportation
+GA 904NY
+UT WOS:000301206400015
+OA Green Submitted
+DA 2024-07-26
+ER
+
+PT J
+AU Frumin, M
+   Zhao, JH
+AF Frumin, Michael
+   Zhao, Jinhua
+TI Analyzing Passenger Incidence Behavior in Heterogeneous Transit Services
+   Using Smartcard Data and Schedule-Based Assignment
+SO TRANSPORTATION RESEARCH RECORD
+LA English
+DT Article
+ID RELIABILITY; INSIGHTS
+AB Passenger incidence (station arrival) behavior has been studied primarily to understand how changes to a transit service will affect passenger waiting times. The impact of one intervention (e.g., increasing frequency) could be overestimated when compared with another (e.g., improving reliability), depending on the assumption of incidence behavior. Understanding passenger incidence allows management decisions to be based on realistic behavioral assumptions. Earlier studies on passenger incidence chose their data samples from stations with a single service pattern such that the linking of passengers to services was straightforward. This choice of data samples simplifies the analysis but heavily limits the stations that can be studied. In any moderately complex network, many stations may have more than one service pattern. This limitation prevents the method from being systematically applied to the whole network and constrains its use in practice. This paper considers incidence behavior in stations with heterogeneous services and proposes a method for estimating incidence headway and waiting time by integrating disaggregate smartcard data with published timetables using schedule-based assignment. This method is applied to stations in the entire London Overground to demonstrate its practicality; incidence behavior varies across the network and across times of day and reflects headways and reliability. Incidence is much less timetable-dependent on the North London Line than on the other lines because of shorter headways and poorer reliability. Where incidence is timetable-dependent, passengers reduce their mean scheduled waiting time by more than 3 min compared with random incidence.
+C1 [Zhao, Jinhua] Univ British Columbia, Sch Community & Reg Planning, Dept Civil Engn, Vancouver, BC V6T 1Z4, Canada.
+   [Frumin, Michael] MTA Bus Customer Informat Syst, New York, NY 10004 USA.
+C3 University of British Columbia
+RP Zhao, JH (corresponding author), Univ British Columbia, Sch Community & Reg Planning, Dept Civil Engn, 2007,6250 Appl Sci Lane, Vancouver, BC V6T 1Z4, Canada.
+EM Jinhua.Zhao@ubc.ca
+RI Zhao, Jinhua/GYV-4433-2022
+OI Zhao, Jinhua/0000-0002-1929-7583
+FU Transport for London
+FX The authors thank Nigel Wilson for cosupervising the research project
+   and providing critical input to the master's thesis on which this paper
+   is based. The authors also thank Transport for London for providing the
+   financial and institutional support for this research, the opportunity
+   to work in the agency, and access to the data used in this paper and
+   specifically thank Oliver Bratton of London Overground Rail Operations
+   Ltd for insight into the issues and the dynamics of the London
+   Overground network.
+NR 16
+TC 30
+Z9 34
+U1 0
+U2 11
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0361-1981
+EI 2169-4052
+J9 TRANSPORT RES REC
+JI Transp. Res. Record
+PY 2012
+IS 2274
+BP 52
+EP 60
+DI 10.3141/2274-05
+PG 9
+WC Engineering, Civil; Transportation; Transportation Science & Technology
+WE Science Citation Index Expanded (SCI-EXPANDED); Social Science Citation Index (SSCI)
+SC Engineering; Transportation
+GA 044UL
+UT WOS:000311649100006
+OA Green Submitted
+DA 2024-07-26
+ER
+
 
 EF
