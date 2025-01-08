@@ -3,7 +3,7 @@
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/GeoTecINIT/smartcard-systematic-mapping-review/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeoTecINIT/smartcard-systematic-mapping-review/HEAD?labpath=Analysis.ipynb)
 [![Paper DOI]()]()
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13378710.svg)](https://doi.org/10.5281/zenodo.13378710)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14615275.svg)](https://doi.org/10.5281/zenodo.14615275)
 
 The following [Jupyter Notebook](./Analysis.ipynb) is in charge of the analysis for the smart card systematic mapping review. This
 systematic mapping review aims to comprehensively examine the current state-of-the-art in using 
